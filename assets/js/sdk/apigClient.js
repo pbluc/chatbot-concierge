@@ -12,7 +12,6 @@
  * express or implied. See the License for the specific language governing
  * permissions and limitations under the License.
  */
-// I made this change
 
 var apigClientFactory = {};
 apigClientFactory.newClient = function (config) {
@@ -54,7 +53,7 @@ apigClientFactory.newClient = function (config) {
 
     
     // extract endpoint and path from url
-    var invokeUrl = 'https://blwat5jyjl.execute-api.us-east-2.amazonaws.com/test-stage';
+    var invokeUrl = 'https://xwxizfw61a.execute-api.us-east-1.amazonaws.com/test-stage';
     var endpoint = /(^https?:\/\/[^\/]+)/g.exec(invokeUrl)[1];
     var pathComponent = invokeUrl.substring(endpoint.length);
 

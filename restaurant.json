@@ -1,0 +1,3400 @@
+{"index": {"_index": "restaurants", "_id": 1}}   
+{"RestaurantID": "XsXLVWr1UZWVhKThNvNiaA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 2}}   
+{"RestaurantID": "BNaveJmi-OUGKG9sRfrIhA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 3}}   
+{"RestaurantID": "bVkjBJlAIwKAj9Aw1KVWjA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 4}}   
+{"RestaurantID": "h0pRCiJDrCN7tm3VX5tILQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 5}}   
+{"RestaurantID": "EmJ7rfmv2y6lQZxgA8U__g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 6}}   
+{"RestaurantID": "ojbH3wnRu050hRhkmoxRiA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 7}}   
+{"RestaurantID": "4FD0TAxe70nb3ngk3sXF9Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 8}}   
+{"RestaurantID": "0CjK3esfpFcxIopebzjFxA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 9}}   
+{"RestaurantID": "l1nX-f46dmOEmYPoiuLSaw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 10}}  
+{"RestaurantID": "qrncvjkiKN5Z-JC06ygy6A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 11}}  
+{"RestaurantID": "xq0cX_DgxiJMXwhmEl9kUA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 12}}  
+{"RestaurantID": "wfhMIiMh2A2psCGONOVSlg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 13}}  
+{"RestaurantID": "FXhSEZfIqjMZh4hR0_8jMQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 14}}  
+{"RestaurantID": "sBCJYLPNJuagg-aJ3Y_ozQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 15}}  
+{"RestaurantID": "1dFOF1HPaThSCsdiqR7DrA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 16}}  
+{"RestaurantID": "oowNI_aUmGEFa_VW8BFgRg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 17}}  
+{"RestaurantID": "0dDCDQz7DrKkSvu9h2hcQw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 18}}  
+{"RestaurantID": "oJ6fy4fBv_3WskxH4NfNBg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 19}}  
+{"RestaurantID": "R3UNnA8EbjhNWBHS0wJ0VA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 20}}  
+{"RestaurantID": "Ece_DRuD1yQjRPJBAebRpw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 21}}  
+{"RestaurantID": "1jAB_uaI8-P_wSqOo2S3KQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 22}}  
+{"RestaurantID": "jc7lVTvmYMIK5RNpENtS6w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 23}}  
+{"RestaurantID": "8plXW6ZQI1awPu1scms3jQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 24}}  
+{"RestaurantID": "UK1oGbr8GU2rufpnJR4-HQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 25}}  
+{"RestaurantID": "A-ert0jDRBfku9ogyW_mEg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 26}}  
+{"RestaurantID": "lynQoI3w_pzYfHGeuUU-Qg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 27}}  
+{"RestaurantID": "wDuf4Qz9qsC62amLZgWNJQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 28}}  
+{"RestaurantID": "mUl0wtO7tPkBocuJqZ-7Dw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 29}}  
+{"RestaurantID": "rGUv1nNmsvy2jOlZtbaOpw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 30}}  
+{"RestaurantID": "LT0yyLNM84EiJj9DL0rfHA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 31}}  
+{"RestaurantID": "croh2zWlbPyCQTNS11klcg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 32}}  
+{"RestaurantID": "oe8GEFE4QLFAKt87y7zcgA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 33}}  
+{"RestaurantID": "nI1UYDCYUTt23TpGxqnLKg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 34}}  
+{"RestaurantID": "p4xNh2NAy85Br77XaomFOw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 35}}  
+{"RestaurantID": "gJXNSJ9VXTuCFmp_Kl9TVQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 36}}  
+{"RestaurantID": "TzhAlljC_843JO7UDDUIaQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 37}}  
+{"RestaurantID": "Qwd4Tv-CqgO2Yl9zZgkKOQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 38}}  
+{"RestaurantID": "BPErPpKSNluwcjbKRgze3w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 39}}  
+{"RestaurantID": "X8ZS-dgiMIJvhwf9SaDnjw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 40}}  
+{"RestaurantID": "QaolMEijS7L6eodSneOdng", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 41}}  
+{"RestaurantID": "sfsjk1h50ooC2ioY7m48gw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 42}}  
+{"RestaurantID": "ZWP7yq9C2bhCcLkMR9BmVw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 43}}  
+{"RestaurantID": "FcXsiSJbk2ZnHyFJMkMK3g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 44}}  
+{"RestaurantID": "lQ8Fzgji9qmgRXkFcvAsVQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 45}}  
+{"RestaurantID": "s5JNxy0eAFgxS2Poi73ODw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 46}}  
+{"RestaurantID": "WVsPyl-DGRu0O_rQYdIMVQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 47}}  
+{"RestaurantID": "sRWRA4dcN_NR1JGpuRVouA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 48}}  
+{"RestaurantID": "uaFHoq-a5XqxF-bsOK9_Qg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 49}}  
+{"RestaurantID": "C3tP0fNNAoxOAC3O406CXQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 50}}  
+{"RestaurantID": "E_Rxnmim6J2ECFtU0QGlsQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 51}}  
+{"RestaurantID": "M-4J09S14mPsH1EJrnR1Og", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 52}}  
+{"RestaurantID": "Y92VtOkTZ6BirkJbUKCMOw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 53}}  
+{"RestaurantID": "KjN7kiCP4kZbt1dj8w3A3g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 54}}  
+{"RestaurantID": "pCfGgX0WxGASGM4-Yhr2Pw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 55}}  
+{"RestaurantID": "qGgQMVExGERqGhZNDM2ROg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 56}}  
+{"RestaurantID": "LVkBYW-FNaZ2h-0zB8-vzA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 57}}  
+{"RestaurantID": "M-odQWSEfsR2mVEw7nKG-g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 58}}  
+{"RestaurantID": "-VRnWGBVMovSS0Ijta_qyg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 59}}  
+{"RestaurantID": "xCHApgtkLpEyh0lz-uhZvg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 60}}  
+{"RestaurantID": "BtsXojrMtfLRhhFK7rm35A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 61}}  
+{"RestaurantID": "0vg2Z-HPwkyVVX613j2ysg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 62}}  
+{"RestaurantID": "NN3mOWF5e_pnR1ArqM2bHQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 63}}  
+{"RestaurantID": "SNhDVaf_n7VDZcfry8mYdA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 64}}  
+{"RestaurantID": "-lgNzAEyFr8LCTuBTWnAMg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 65}}  
+{"RestaurantID": "OvdCm3j_5HzItolfvwrEUA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 66}}  
+{"RestaurantID": "Vzx-7-jSEBz2g8NuGVhHvQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 67}}  
+{"RestaurantID": "SBJHGtqJyfaU47NPjGAU6A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 68}}  
+{"RestaurantID": "xm_-5QZFzJidiUO--PgOYg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 69}}  
+{"RestaurantID": "Qgv2vyUV-DwK8YwrhU-jtw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 70}}  
+{"RestaurantID": "3oB2_2vpeIyxJt1GvlcZBA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 71}}  
+{"RestaurantID": "HOfNVzn45dwctTOCLVPj2g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 72}}  
+{"RestaurantID": "DsH2GQdj6lX-znyfDFFhhQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 73}}  
+{"RestaurantID": "iiP46Z-A_ClynkS_qFQKEQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 74}}  
+{"RestaurantID": "VW2Epq3C8jqysu6Edpu-RA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 75}}  
+{"RestaurantID": "JJLFsLZbL21fbYRqcIGCLA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 76}}  
+{"RestaurantID": "l44CFBTejwL0ElKmkH7xQQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 77}}  
+{"RestaurantID": "jwKPVep2qZYBUA6SLLQPvg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 78}}  
+{"RestaurantID": "pBNMZp_tKCAfRNx7-ybcHQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 79}}  
+{"RestaurantID": "kXYTWVIPTnCukSo2jfxZ8A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 80}}  
+{"RestaurantID": "TU_BU9HLflYI2xlyqVQdRA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 81}}  
+{"RestaurantID": "jjJc_CrkB2HodEinB6cWww", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 82}}  
+{"RestaurantID": "6YehBdKHcLDsvaewhcEjFQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 83}}  
+{"RestaurantID": "8Oo2AtQEPDfxIOnA8wfXoQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 84}}  
+{"RestaurantID": "YDZX2bJ1IyV0lunBYqbb4w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 85}}  
+{"RestaurantID": "pPqEu60FMffpiWqk2MCrVA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 86}}  
+{"RestaurantID": "_fTRTishY3G5dLPLYGCVAw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 87}}  
+{"RestaurantID": "7ZQSMqWzvXMSetXnii2fBg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 88}}  
+{"RestaurantID": "8ZBbl3VN-cu6PFOL0D7-8A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 89}}  
+{"RestaurantID": "85wkGMKbHV0RdTGIWpep5A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 90}}  
+{"RestaurantID": "wurhcLKXD4YJ5XfTxpbE5Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 91}}  
+{"RestaurantID": "XaEFFUabnbH8ZF7ccmSAlQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 92}}  
+{"RestaurantID": "6dVXDdgzDEVt4DvHzpWo9w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 93}}  
+{"RestaurantID": "WRRs3smfm6rHP5k4Slzr3w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 94}}  
+{"RestaurantID": "UBY796Pa8HAuqC2uRR0WNg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 95}}  
+{"RestaurantID": "i7cKPMXreR4XfTjdpqZ_5A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 96}}  
+{"RestaurantID": "iM2DKMjyU_R1r8x-3AZGQg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 97}}  
+{"RestaurantID": "HPwH6d3yshPeF0pywgDfSw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 98}}  
+{"RestaurantID": "keZkNTROSC-wFJsXHJdMAA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 99}}  
+{"RestaurantID": "c_YQu6gmnG_v7nXoTQHzHA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 100}} 
+{"RestaurantID": "bSi2f2TaOr4RVTI5eFt0wQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 101}} 
+{"RestaurantID": "wpJGWi1LQsCd7Leq3Y4RqQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 102}} 
+{"RestaurantID": "slMRh4GEu5Mg53kicgmf4g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 103}} 
+{"RestaurantID": "gvOe1TLb8hZgx0naC9LYpw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 104}} 
+{"RestaurantID": "fbxOVzLvmIB13_5adb1hfQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 105}} 
+{"RestaurantID": "VbFYau70iG_s6UNFwYtGVQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 106}} 
+{"RestaurantID": "53lgp8fFEuK3Yo7yeXc89A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 107}} 
+{"RestaurantID": "scTDvJ2M2jDbb1ntVeIyxA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 108}} 
+{"RestaurantID": "ynIx549QFj29o84y1RSGyw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 109}} 
+{"RestaurantID": "2UmeXoBQ6zRNn0Zv_VcAjw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 110}} 
+{"RestaurantID": "gNmF50bsYnpVQCNXoW02mg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 111}} 
+{"RestaurantID": "R26zweQ8-xoZS7iHkXQOvw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 112}} 
+{"RestaurantID": "f_vDVYSk-VUnlGTvgtBwkQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 113}} 
+{"RestaurantID": "LTVNsNBh_0FI8MYrPfjRDQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 114}} 
+{"RestaurantID": "s25mujxKWphsyFm0Ji1xYA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 115}} 
+{"RestaurantID": "B7bxdtvLYR7Nmex4AIFd4w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 116}} 
+{"RestaurantID": "wobICp6lQP7Y6dfnJ_4Ujw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 117}} 
+{"RestaurantID": "aJKpUrLLNX3dy7NJCriqcQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 118}} 
+{"RestaurantID": "lgHmMRBaU-48kGaNz3jYxg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 119}} 
+{"RestaurantID": "KSleHGTG1yL1E7OEFFPoNQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 120}} 
+{"RestaurantID": "v2dtG37r1ThqtfEfiFsAUg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 121}} 
+{"RestaurantID": "JaKLZrh1Y_2qB_0Gc3bk3A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 122}} 
+{"RestaurantID": "MhceeLrM2_3mcKw5EGLY6A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 123}} 
+{"RestaurantID": "UNyGz06_7RendbswIyNYtA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 124}} 
+{"RestaurantID": "dDXtga5Kgo5B1twdezcZJA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 125}} 
+{"RestaurantID": "rYw5rQbWRX9buZHZbxqWdA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 126}} 
+{"RestaurantID": "_lx7nuvXU7LhDRL3a9TMAw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 127}} 
+{"RestaurantID": "_7GunmWHykEJ5_u2zkX1gg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 128}} 
+{"RestaurantID": "MYPes7EWP5aLiVG1Z_9eFQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 129}} 
+{"RestaurantID": "g512kssHLLTdDbUJHTmJFw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 130}} 
+{"RestaurantID": "RYoc4EBUNOtgbg7c32OG9A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 131}} 
+{"RestaurantID": "shwaY4v3fx9tjalvHVIBxQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 132}} 
+{"RestaurantID": "H1jops1lmuhrq9lP7lEGJQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 133}} 
+{"RestaurantID": "Jy7htqnnxlKB2vZO42_-aw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 134}} 
+{"RestaurantID": "FcQA5tV8wlz6jg_UK_s7Hw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 135}} 
+{"RestaurantID": "IkOW8jcaFYOll4albHitLw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 136}} 
+{"RestaurantID": "AImhpHnwq_1qJeopUzdohA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 137}} 
+{"RestaurantID": "mIbmzqQ473BUF8cngXXs_Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 138}} 
+{"RestaurantID": "GuzlMBKNoClNx5I1-x-DDg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 139}} 
+{"RestaurantID": "z5f--L8_vB_WvSaRca7LQQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 140}} 
+{"RestaurantID": "HoU-pi4U4EK-AwkTxNCAEg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 141}} 
+{"RestaurantID": "83zDAk03lFXkgImgkLhT9w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 142}} 
+{"RestaurantID": "nzqNfNXjtB6bxp-UN7xXkA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 143}} 
+{"RestaurantID": "l7G5tDA96xbA_bx1ZgkOeg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 144}} 
+{"RestaurantID": "wjIyCBEpCG_HRp8veiI0YQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 145}} 
+{"RestaurantID": "LDScBEu3splSQlhGBEH2hg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 146}} 
+{"RestaurantID": "MdDj13LgIs0WdbIdiyqB7Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 147}} 
+{"RestaurantID": "olRNNJCJ2TJvPRmjBiOcGA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 148}} 
+{"RestaurantID": "UaQF4mv6hVjiegkwUvQeMQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 149}} 
+{"RestaurantID": "6kCo3xb87Sc3Aa5ZSWzNnw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 150}} 
+{"RestaurantID": "iSjPBJRiWqrgxW7ZM3CGig", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 151}} 
+{"RestaurantID": "hR3NQG3HB1I6cC88ydbrdw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 152}} 
+{"RestaurantID": "WRPJeH3goSpj5ke3Pkrnfw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 153}} 
+{"RestaurantID": "HDoJIH-qW9FqJ5WB-bKTqA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 154}} 
+{"RestaurantID": "Q1TpfbuPwKPFrNFyu-u2_g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 155}} 
+{"RestaurantID": "wo7-TKh4B37RTBjPNtkp7w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 156}} 
+{"RestaurantID": "EN9_LsFpY44Hkzcnu0jfIg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 157}} 
+{"RestaurantID": "Va_mnsEvBghHXvc7uZIWJQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 158}} 
+{"RestaurantID": "ebug8VzizRlgdK2fYRi-6A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 159}} 
+{"RestaurantID": "3ESDUFulPVoMJdsqPQGm0A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 160}} 
+{"RestaurantID": "-2FAuHbWsc_rxuSaeYAhCw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 161}} 
+{"RestaurantID": "r6r-XK_wL02FQdAgaauTxg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 162}} 
+{"RestaurantID": "Sj2StOWkhHIPE6_sS5RMCQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 163}} 
+{"RestaurantID": "Pr-q47vsmM4aoc2t_Sfk8w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 164}} 
+{"RestaurantID": "R7EGjHWw0tNheY6-ahH8fQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 165}} 
+{"RestaurantID": "HduEOz0RSK91GDr8EoxELw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 166}} 
+{"RestaurantID": "zYoL-o9YJpGTwJ-Gmj8AFA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 167}} 
+{"RestaurantID": "Dqp5Itsj9dN0Ewz8Gm853g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 168}} 
+{"RestaurantID": "cGSLzPA_SCWrN3cyT86Nhw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 169}} 
+{"RestaurantID": "gDCK63W5_8-tdCCWr92rbw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 170}} 
+{"RestaurantID": "i6CpYdmMYoz712bRWTWVgQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 171}} 
+{"RestaurantID": "2J3--ZI6CcoYLWSYYVdt7Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 172}} 
+{"RestaurantID": "qH8PVeddtVs9cKN2pwgdkQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 173}} 
+{"RestaurantID": "pb_cHcy8D8UC-jQ-Q524ug", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 174}} 
+{"RestaurantID": "X4hEgOBOLTYFhlWO-gAFxQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 175}} 
+{"RestaurantID": "w3wKbjuNCZnYoPOr-FCk5w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 176}} 
+{"RestaurantID": "kBZggrnSP1kcUMnsnfkTaQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 177}} 
+{"RestaurantID": "Ej-hrhc8HFWfijN4X5akOg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 178}} 
+{"RestaurantID": "g_5V15Xp1OvB1QXuGMstYA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 179}} 
+{"RestaurantID": "rBUTVjRs5CcEMe3dfVRZJQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 180}} 
+{"RestaurantID": "Bb0h5Rs8ugSM2CjulRhfBw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 181}} 
+{"RestaurantID": "mDajKjZjRN4tVGEJFOgF9w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 182}} 
+{"RestaurantID": "Lp8vAE5nHSt5zbu-lSGK8A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 183}} 
+{"RestaurantID": "gcEMZjjqy5Ucnv_5Pv-q1g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 184}} 
+{"RestaurantID": "RkcQl4uEJWblWf4xX8ssqQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 185}} 
+{"RestaurantID": "Kqb7MjTPNkjPMoFRd-rWpw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 186}} 
+{"RestaurantID": "kwq1W0opBnOYKoUXWYyQ5g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 187}} 
+{"RestaurantID": "smxIke5NSkMIExa6jLVw-g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 188}} 
+{"RestaurantID": "BbODF2tZuw4xW_RFwMzwRg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 189}} 
+{"RestaurantID": "4DInnPhOyvXFbYpUdO0SMQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 190}} 
+{"RestaurantID": "GJZnf3B-ADjlCV1NXsHvGQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 191}} 
+{"RestaurantID": "GAFqRBlqZpLK2vYbiqzYhA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 192}} 
+{"RestaurantID": "Dqu-5RxNbbpBsL1Ssht9Ng", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 193}} 
+{"RestaurantID": "wyjtGsW5NeVDknGQWnIPAQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 194}} 
+{"RestaurantID": "bnDfFdiCcPzhuNWUJORvLQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 195}} 
+{"RestaurantID": "Bwj7nzWphGV6FaZ_ygTSOg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 196}} 
+{"RestaurantID": "lgS9lE0Y9FhzT68zCj5QCw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 197}} 
+{"RestaurantID": "2wVirrAVg3ltAFHoHeXHMQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 198}} 
+{"RestaurantID": "wzmeaMTm5cZ1JCjep7iQeA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 199}} 
+{"RestaurantID": "Puyzn1gagH9TsJz7EBJs3g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 200}} 
+{"RestaurantID": "cG9yhk_wkMm7XwR2HcHmrQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 201}} 
+{"RestaurantID": "SYFLyQAFRFoDURRWafeLKA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 202}} 
+{"RestaurantID": "2fZhuDglZd7ezwTACqIs-w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 203}} 
+{"RestaurantID": "7Fv8r-NFhIqlzrFwoAuWqg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 204}} 
+{"RestaurantID": "9U5tPyF6QEiVntlyTemxKA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 205}} 
+{"RestaurantID": "rkeH5HJIuX7ZcOaYNum9xA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 206}} 
+{"RestaurantID": "u0qfikB-ppp6UwoNKqxlRw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 207}} 
+{"RestaurantID": "S3ZAZrpakAUs8sVUb6ving", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 208}} 
+{"RestaurantID": "NXg-oNpx0GYNiErdHb8L5A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 209}} 
+{"RestaurantID": "tS4aiWBYgzlqKX898jr3_w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 210}} 
+{"RestaurantID": "oTkzgr7hzOAdlP99Auj3GQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 211}} 
+{"RestaurantID": "U74_3F7r3tMhd6dmTmDBxQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 212}} 
+{"RestaurantID": "SFleMiroXTeWnXfonRic-w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 213}} 
+{"RestaurantID": "inp9N7bo9zqQSa8h8UBhqg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 214}} 
+{"RestaurantID": "7hh2eP4HVkyjtpcqeITk3Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 215}} 
+{"RestaurantID": "ItZ8CzZAGXGjB8_9HxDIXg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 216}} 
+{"RestaurantID": "SyvC0s3y0ZrtnLbwnvw7tw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 217}} 
+{"RestaurantID": "riEXluKIJm3Behd9WA5Y5w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 218}} 
+{"RestaurantID": "QGFeEEwA5b19L_hSsmocPw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 219}} 
+{"RestaurantID": "TwxP5xU_xyzlf7SVzCnpuA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 220}} 
+{"RestaurantID": "pBIvJHn65iqlUh1L2tN-qg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 221}} 
+{"RestaurantID": "2tR7d61tBGNlGaJRYvrN0Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 222}} 
+{"RestaurantID": "_WXa2M3gz2Mi0ys3s88nDw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 223}} 
+{"RestaurantID": "8cyRl5HIQzbkYD7orq223g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 224}} 
+{"RestaurantID": "bDsXyYwzk4I9_7l51D_gaA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 225}} 
+{"RestaurantID": "O1fUmxt3kbV-rnyjBtzAfw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 226}} 
+{"RestaurantID": "OXNPuN7KcjP9T5DdilgzdQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 227}} 
+{"RestaurantID": "HScFap2SwbUlfC-QXVkxFA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 228}} 
+{"RestaurantID": "oFBgvlELwMtvqA0gcGr96g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 229}} 
+{"RestaurantID": "ePVlFbTzdVQFWie__kdplg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 230}} 
+{"RestaurantID": "C0uaRMiXCCtjXdQSZhaU_A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 231}} 
+{"RestaurantID": "7DnZWIn1Dcsvq-_pIXXFZQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 232}} 
+{"RestaurantID": "vQX7y4Yoknpso033IDATqA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 233}} 
+{"RestaurantID": "VpInBiE272MaN1Hi0DA-Zw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 234}} 
+{"RestaurantID": "8ig0yf0003DAp4YOGTlbVg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 235}} 
+{"RestaurantID": "Xf6e3HaP0AgMBxY7dEDkOA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 236}} 
+{"RestaurantID": "NebgteFykeM1gwiVgPcCHw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 237}} 
+{"RestaurantID": "ipPhk_Tmp2JYInPWJR-ZgQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 238}} 
+{"RestaurantID": "62Kedrco374IuZ_OFb0BxA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 239}} 
+{"RestaurantID": "DmTz35KvxO20mH-pJxLNpg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 240}} 
+{"RestaurantID": "Q99VEcN9r1Qqmvnm5I03tw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 241}} 
+{"RestaurantID": "I_Va7AZSHpEwX75S-3hHLQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 242}} 
+{"RestaurantID": "1YGpTYD8xIuUpK_beMhzSw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 243}} 
+{"RestaurantID": "qI_HCkmN5Hl0ekVgFdHbCw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 244}} 
+{"RestaurantID": "yj9vVa08ABH6BBOLHMfJag", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 245}} 
+{"RestaurantID": "Aux2Mp7bGnF3S6h60ab3iQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 246}} 
+{"RestaurantID": "d8lAkqk2w3Lp9uiI4svu6w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 247}} 
+{"RestaurantID": "SQT1chaH2EmwYgNvvodGLQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 248}} 
+{"RestaurantID": "v9jVyul3V5cqUkQco-iq8Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 249}} 
+{"RestaurantID": "aije_BqBVVl-6T13QsnRqQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 250}} 
+{"RestaurantID": "Ig5-xwGEXMFssmwIvzxCRQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 251}} 
+{"RestaurantID": "0eLtFI6MeEYM2rlMtcjRaQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 252}} 
+{"RestaurantID": "-Exv1AEsaKU6Cdb2TO_ZUg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 253}} 
+{"RestaurantID": "1zGj_OBB4Ne1BevScnWANQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 254}} 
+{"RestaurantID": "yVI01P3ApyLlkqtOfgki7A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 255}} 
+{"RestaurantID": "GAQmkl1rx8IMb1xOK388pA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 256}} 
+{"RestaurantID": "9WVVVBcW5AzptksXe1RAQQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 257}} 
+{"RestaurantID": "dpCSDy9uefOEcY44FHss2Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 258}} 
+{"RestaurantID": "wqdFd3DZD_uTXRW784mFkg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 259}} 
+{"RestaurantID": "IhSVn0TaX8xXb3wcQ-fgcA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 260}} 
+{"RestaurantID": "L37A2JWXfwR_PgKColA8xA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 261}} 
+{"RestaurantID": "WIj12zDqIbBucW1hXYhrew", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 262}} 
+{"RestaurantID": "vZgJyMZlpSSS_Y-duxd4_A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 263}} 
+{"RestaurantID": "zubN8Ve-RyoljRZV4NRxEQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 264}} 
+{"RestaurantID": "P2bxlKAmRWZIpHdJ_JT3fg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 265}} 
+{"RestaurantID": "0cQcKV7eCOhw7OnflOzr9w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 266}} 
+{"RestaurantID": "eQKYZWnBjPUjINAnFmrmbA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 267}} 
+{"RestaurantID": "zj4vqgljRhxwWlvttgFRKQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 268}} 
+{"RestaurantID": "LpVbI-E9C-CSp7WhU5h2Iw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 269}} 
+{"RestaurantID": "0d9H27ztGyGHMENp2afAqA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 270}} 
+{"RestaurantID": "7wrFd9tnIBMClzDnrWdSNw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 271}} 
+{"RestaurantID": "f_OiLWqldSmNy1MAvtWlPQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 272}} 
+{"RestaurantID": "zb78ua-FlfFRj8v082giBw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 273}} 
+{"RestaurantID": "DpfE0gPBXj-aj2pnEh4E2Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 274}} 
+{"RestaurantID": "L9SuMN3UsGipopWOe3pr9w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 275}} 
+{"RestaurantID": "DnJoD7VxgvbYxkF0WFxKog", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 276}} 
+{"RestaurantID": "wB62GwboLqg1UpGm-Qpz5Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 277}} 
+{"RestaurantID": "AEkpyAGcVe5NgH2Nb7fCNQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 278}} 
+{"RestaurantID": "vEvOcLuD99EMWJghbc_9ag", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 279}} 
+{"RestaurantID": "fUcjBGgmTlvxXn2azvAijw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 280}} 
+{"RestaurantID": "EFihj7vsRRXiF5la-UURyw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 281}} 
+{"RestaurantID": "eEeBhw0UeyEyH5elwm9ULg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 282}} 
+{"RestaurantID": "vPbJRg5umcRMELTDsJik_A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 283}} 
+{"RestaurantID": "ybQV8joopvU1_gG2RwLRog", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 284}} 
+{"RestaurantID": "xtxcAUvrD4dWHJd0cwvW1A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 285}} 
+{"RestaurantID": "8XJrpuI6RHMXmjrVzP03dw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 286}} 
+{"RestaurantID": "E1QQuFMX7DAEt8jV4attkA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 287}} 
+{"RestaurantID": "fNAIjp3E05b9lCQesnol8g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 288}} 
+{"RestaurantID": "A5MHd0GjEb4P86UsNzUnig", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 289}} 
+{"RestaurantID": "LXmlfAmrGA3NfvYSfxIVvQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 290}} 
+{"RestaurantID": "MMuhdLdOcQ5Ghtr0V_BwIg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 291}} 
+{"RestaurantID": "cqj7o7uZ_jboXL0BqO4YMg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 292}} 
+{"RestaurantID": "eZ_NxH1_S-neZTT7fxsXhA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 293}} 
+{"RestaurantID": "vQe7_ZW_jBSWKtgSiXGIOA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 294}} 
+{"RestaurantID": "oyxk3hv9F7dGZGARmNDSYg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 295}} 
+{"RestaurantID": "hdiQrGDT8enOzpxaipBzNA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 296}} 
+{"RestaurantID": "Iy-hSL6CEC4GuPNtcWxcIw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 297}} 
+{"RestaurantID": "F2KRHRtnIAZJezs9UC2u6w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 298}} 
+{"RestaurantID": "k0fnJRSV8tzM2bzkvFdlGg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 299}} 
+{"RestaurantID": "VG0XPr9jSrgd8p5WPD1HaQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 300}} 
+{"RestaurantID": "E1HXa-a-j7LCDMXb3QLBHQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 301}} 
+{"RestaurantID": "YigPOZxASGQX1IniEyCp8g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 302}} 
+{"RestaurantID": "9-vKFnUby_6-pR6UJxjzMw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 303}} 
+{"RestaurantID": "FQi7AP2j9UYc1c-VTF00rA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 304}} 
+{"RestaurantID": "PGeL1b4xNJggpZsHEGoxjg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 305}} 
+{"RestaurantID": "aWkekCYI9zNA6xDwYEtYpg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 306}} 
+{"RestaurantID": "kwqOmEwWJ0D9PyCdFGE3-g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 307}} 
+{"RestaurantID": "7hyQqnnAisSL-nfIWCPziQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 308}} 
+{"RestaurantID": "wxUTM-FkpCvnoTGJfSXkWg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 309}} 
+{"RestaurantID": "xLJnT-pB4VECJzmUf1Whpg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 310}} 
+{"RestaurantID": "56rTisZA_iEekMsyZHvSHQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 311}} 
+{"RestaurantID": "vw_Xsqnep2odsL3l5-Tn1w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 312}} 
+{"RestaurantID": "rcwEQN8lxHzkr-QtfH_b8Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 313}} 
+{"RestaurantID": "J9UA6rzI5WW_cDGjwDnF5g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 314}} 
+{"RestaurantID": "FXFQJmhK6elesopXdhjvFQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 315}} 
+{"RestaurantID": "oJjMYhA6z1_BVaQpSdyl8g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 316}} 
+{"RestaurantID": "AeNU0DYNtYDVPGnWAIh-0Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 317}} 
+{"RestaurantID": "IIM-dzbOvg4x7h-AjHsq9Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 318}} 
+{"RestaurantID": "XDv71A1J3aIOu_W5sVzZ2w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 319}} 
+{"RestaurantID": "KBZQN540Xz6LbXLRVOMc0w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 320}} 
+{"RestaurantID": "SXH-A8k7t7C_lmzzVdWQTg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 321}} 
+{"RestaurantID": "4npQPrRezdLIkKWMdXpjFA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 322}} 
+{"RestaurantID": "RoqLH-4rDugHlduthnZggg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 323}} 
+{"RestaurantID": "CgYWuNH0UHd5vp2vGgKflw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 324}} 
+{"RestaurantID": "U5dCWjAxrvLLMH1ErpGfvw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 325}} 
+{"RestaurantID": "zdB4nA0Xpyxhi5oIt6wVng", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 326}} 
+{"RestaurantID": "KkPanVlxtpsuG0V0IlEchg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 327}} 
+{"RestaurantID": "B87c3bE_u53yNYO1cmHSIw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 328}} 
+{"RestaurantID": "nBm-zxAWg_oA8JNtHxPvcw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 329}} 
+{"RestaurantID": "YvMLbSK_tWmaOjYGwOUd5Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 330}} 
+{"RestaurantID": "-EqTI_ssZs0iNM39KjzlQA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 331}} 
+{"RestaurantID": "5tWpAFpF618KJxBhHJzF7g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 332}} 
+{"RestaurantID": "5TnBfeoBpxPPwIXMGBMasg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 333}} 
+{"RestaurantID": "8YWLuLUKj0t_0_Xv06UUtw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 334}} 
+{"RestaurantID": "kWJF8L1u5jdlkLBItUu16w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 335}} 
+{"RestaurantID": "qVBvZIgDcwSFsENWD1nWKQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 336}} 
+{"RestaurantID": "y_ylOQzCP-9D_4DcUIJ3jA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 337}} 
+{"RestaurantID": "wNhO_9gY-ZRZEBSA2anXtA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 338}} 
+{"RestaurantID": "GFxJmkqrqiF87e--ka_TlQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 339}} 
+{"RestaurantID": "W23yXhj_Dqp1SCoLX-R9Sw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 340}} 
+{"RestaurantID": "hZDZ--W5gd7E0W8lz_feLg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 341}} 
+{"RestaurantID": "rPKXTHDgtGI4XEo2HuVpow", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 342}} 
+{"RestaurantID": "3gqKLANaXNsHZnPDjKrcTg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 343}} 
+{"RestaurantID": "B9Mbi12NpBJkZcRtQNtMBA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 344}} 
+{"RestaurantID": "ZiGeqmXH55hVegpqnqoznw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 345}} 
+{"RestaurantID": "DNSFvZtdsqkaidmFSpm-Jw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 346}} 
+{"RestaurantID": "N_5VwtCoXPhHdlz1JQbIoQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 347}} 
+{"RestaurantID": "zZecd370h2jxzh1kRJ4y2g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 348}} 
+{"RestaurantID": "rJ4N10Nbh-GM49qOSGFoAw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 349}} 
+{"RestaurantID": "a93NwZxjkPQydJxR42oPyg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 350}} 
+{"RestaurantID": "jWEjgaj2SraChhtx3_deDA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 351}} 
+{"RestaurantID": "3NYQQckItp9l7GDzALw79w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 352}} 
+{"RestaurantID": "mQQxpyEegblKERyeuxrb5Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 353}} 
+{"RestaurantID": "ZdLS7gD1ulmCPkqNc9_S3A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 354}} 
+{"RestaurantID": "bacGm8cL-vUPHdR18_M7bw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 355}} 
+{"RestaurantID": "d_TC6Om2EBTzHVm_lCgNtg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 356}} 
+{"RestaurantID": "RTFIMX31BPeZzx7kJJ1SCA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 357}} 
+{"RestaurantID": "RoXFN-T1s6moM5smbY_5Gw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 358}} 
+{"RestaurantID": "bL2lVltPHfCeCabS51-pxQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 359}} 
+{"RestaurantID": "Cyv-tW4BljwWnP16HI_zAg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 360}} 
+{"RestaurantID": "k8GFfCXO2FIIJIo0ICYSRA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 361}} 
+{"RestaurantID": "L9N9O2u_M9Daby9_myK4Yg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 362}} 
+{"RestaurantID": "bGOZTD9O00OkVA1Pkt3OuQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 363}} 
+{"RestaurantID": "EbX_9tqAJs4gW51gZpOB7g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 364}} 
+{"RestaurantID": "hNFe8WhCibrqT4sFcZmAgw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 365}} 
+{"RestaurantID": "Yb6PQ_4YQpJ0SVZ1tetkbg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 366}} 
+{"RestaurantID": "BkXb82Y2OIsQ5RpNNQOYmQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 367}} 
+{"RestaurantID": "tLg1gQ1tqYCT-5gGsOwHfA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 368}} 
+{"RestaurantID": "nxTEuWKzkK1tCF4LrhFSUQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 369}} 
+{"RestaurantID": "97q5nUQTuBo_h00XCxna2A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 370}} 
+{"RestaurantID": "bgnM6uy66zupYzb4QdL3vA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 371}} 
+{"RestaurantID": "3eBV6HwWcdHzJW3sUH-2hw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 372}} 
+{"RestaurantID": "xVPTI1ytXt2PLU-strKcnw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 373}} 
+{"RestaurantID": "BCkyeKuJl009EtwPBvVhzA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 374}} 
+{"RestaurantID": "55jx0bYJ-odyqKKSrDXtPA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 375}} 
+{"RestaurantID": "EDLKX7cCxPbmbmo1XG3xJQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 376}} 
+{"RestaurantID": "a2sxaQooPmq9r7Cc-Umunw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 377}} 
+{"RestaurantID": "D0EV-xXaUUi35raZ_hWg-w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 378}} 
+{"RestaurantID": "a-Bq_yXFVk2PptoWpmry3w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 379}} 
+{"RestaurantID": "dP6SmZ5E5Nj64-3zZMjGSg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 380}} 
+{"RestaurantID": "br6HJD_UZ_LSU36tBZGSuw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 381}} 
+{"RestaurantID": "YS8pw7sYOBqaW23FCOqecg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 382}} 
+{"RestaurantID": "xEDD2ScBU3jHhWxlMC7dkQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 383}} 
+{"RestaurantID": "wPL0epJzosoFRYox1a5lvA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 384}} 
+{"RestaurantID": "JJJ9KQUja_ZWZoS3M2eFaQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 385}} 
+{"RestaurantID": "YvAeVNrMQGim9VTkilwUgA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 386}} 
+{"RestaurantID": "OvQFSevzG9ftRALAxYTyRw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 387}} 
+{"RestaurantID": "GzY2EjCmGNgvRd7IE20fTA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 388}} 
+{"RestaurantID": "qEe7nIhPfEL6L0-VYhWRrA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 389}} 
+{"RestaurantID": "9HD5HQiTkURkx5i7hL92EA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 390}} 
+{"RestaurantID": "v0opDMezc6pKgdfR22KUnQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 391}} 
+{"RestaurantID": "hyd08lsVkYzCfbbCuzla5Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 392}} 
+{"RestaurantID": "QhE50zhSMnQaudpHW1jp7g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 393}} 
+{"RestaurantID": "XoJwcOxazBKvWikQCATS-w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 394}} 
+{"RestaurantID": "itH4GH2Mw2D5n5kkQAtMog", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 395}} 
+{"RestaurantID": "E7q1Qf6380N_aMqz28EgNw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 396}} 
+{"RestaurantID": "SaZZ363k55_E61DgDJX6BA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 397}} 
+{"RestaurantID": "H87c1gVVCKneyI0LxaDFxQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 398}} 
+{"RestaurantID": "azGPyK3p6HDmvQGX0AyDtg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 399}} 
+{"RestaurantID": "m2_ZNFos5ugAwe8ft8eaEw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 400}} 
+{"RestaurantID": "CgMgIB_XO4YXJp_MNtB-2g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 401}} 
+{"RestaurantID": "U_JIkNwSc-J-tu_E8iztyg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 402}} 
+{"RestaurantID": "-lKKdp0XYVJY2DWL-ZSwtQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 403}} 
+{"RestaurantID": "QjXjUpyYlopIN_JK6A_s-w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 404}} 
+{"RestaurantID": "pYC8aaoUcPp1FaPqVojS5g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 405}} 
+{"RestaurantID": "8a_ci8y-96SjvdaK3eIoSw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 406}} 
+{"RestaurantID": "omOPvWNdukvWOC0peXPyng", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 407}} 
+{"RestaurantID": "Aeiyyowii5GBL9Y-SjTxvg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 408}} 
+{"RestaurantID": "r2JVKalbucGf2nryywuL2w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 409}} 
+{"RestaurantID": "tFAozE7NNbypnrr5zEt0bQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 410}} 
+{"RestaurantID": "4pnfZWTgH2924iEKRa0hkw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 411}} 
+{"RestaurantID": "w0pDi_iMZd5MqYQ7t5q1dQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 412}} 
+{"RestaurantID": "Sri-kDbSGsPPQJyp8eomKg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 413}} 
+{"RestaurantID": "3K7Kc82bhU6-qjAjsBs3Fw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 414}} 
+{"RestaurantID": "qvX5If0CwM1RGzP3ie4SKA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 415}} 
+{"RestaurantID": "kiRGyWovmi3vMPJ4sJudHg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 416}} 
+{"RestaurantID": "2rSmA4IK51QAQj60YGvjnw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 417}} 
+{"RestaurantID": "7VqMGK9uwi0vKqOjdKyIUA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 418}} 
+{"RestaurantID": "gNGxh97n0NZgYG1Q_no9Kg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 419}} 
+{"RestaurantID": "FlZ1zdVEKWv7dwqm8Uw8-w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 420}} 
+{"RestaurantID": "NIGYFezOj_F_M5GskaN-2Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 421}} 
+{"RestaurantID": "BTWWgZrMo_pS_BK-TYO92g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 422}} 
+{"RestaurantID": "gQ6DNeLNWQV-zwWyuFeBpg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 423}} 
+{"RestaurantID": "JyYt8w1RpjDbITsE40eLfA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 424}} 
+{"RestaurantID": "2pnhIRBUw58PpN8CQEYiZA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 425}} 
+{"RestaurantID": "XoxEVVf5Ci8nibQ-Q4P0nQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 426}} 
+{"RestaurantID": "uPVYeVOSLmvAkbxM9cTAQg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 427}} 
+{"RestaurantID": "ONQRhDuWv0e9R5xOiI7YAA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 428}} 
+{"RestaurantID": "MzA6gitJKqfW4VrdS7AiQw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 429}} 
+{"RestaurantID": "hDT_KAXQgHpchcwG5_gv0Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 430}} 
+{"RestaurantID": "AfF4zVbVI27zwgkzOLYDFg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 431}} 
+{"RestaurantID": "CFUaimcfs4q8Y7vCkxraHg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 432}} 
+{"RestaurantID": "x3_DaW2lWCNovheuZV_nAw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 433}} 
+{"RestaurantID": "4WyXnioHqTIcaFFN_TS1Vw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 434}} 
+{"RestaurantID": "II7C8s_nkPXfttDq_vHmGA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 435}} 
+{"RestaurantID": "LhBZsjkb6aKdLIq9w9_J2w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 436}} 
+{"RestaurantID": "iueVEi_vQxdAzdXs-8Fvrg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 437}} 
+{"RestaurantID": "sllXrDi-eKiwZJTWtNKaTg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 438}} 
+{"RestaurantID": "qkLneEcNorM7zbD8nXb2gQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 439}} 
+{"RestaurantID": "eKAf_9Zq_AgvcD4JpsBe1w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 440}} 
+{"RestaurantID": "DKGUSLiqNchBNatKoPM9QQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 441}} 
+{"RestaurantID": "8DV1myPrW7SePZOK46IjLQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 442}} 
+{"RestaurantID": "hzh4b_Ly9AvIxWMGRjr_fw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 443}} 
+{"RestaurantID": "PBUIaPtgnhmdHE3KHglK-g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 444}} 
+{"RestaurantID": "U0EJ4URMoFHJEzAkMp4WWQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 445}} 
+{"RestaurantID": "sgKNAn72O2XMQXS6AWmf9w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 446}} 
+{"RestaurantID": "YIwYw_A_LRwK66HBTzogYQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 447}} 
+{"RestaurantID": "CesS-E8Q3ztX6VnkXO6wBg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 448}} 
+{"RestaurantID": "uyy76kFPWsN7_R0SeyOoKA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 449}} 
+{"RestaurantID": "K0qsGnFv-edPDqVBdLCocQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 450}} 
+{"RestaurantID": "3DmJv5rHFNyQykaUiXBOvA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 451}} 
+{"RestaurantID": "UiBQ8Uyu4wfOtEM1Rr8ycA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 452}} 
+{"RestaurantID": "bT4CDzyhV-frXV6ijvXnvw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 453}} 
+{"RestaurantID": "LztkKM-lvRraBbS9TVXzcg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 454}} 
+{"RestaurantID": "0FOE_TW-91b9wN661lZMyQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 455}} 
+{"RestaurantID": "0iqdoMOtNv6pq0lo5J4TBA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 456}} 
+{"RestaurantID": "QBhHq4eN7rtFzmDUciVL-Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 457}} 
+{"RestaurantID": "jfnDwWBGK4JoWE5jbeKxSw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 458}} 
+{"RestaurantID": "YCen62jqSWhPOAorQjSZdQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 459}} 
+{"RestaurantID": "GdOl_9iH8gLKeo9yABfyoQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 460}} 
+{"RestaurantID": "bK-Y2zCIMolqRDHsaYUCWA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 461}} 
+{"RestaurantID": "7rTl_d-dqlK5dGG31ogSBg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 462}} 
+{"RestaurantID": "Uc8LtqNWavguEarRXfwhRg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 463}} 
+{"RestaurantID": "3fBiB3slTfBpmf39vD7sJw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 464}} 
+{"RestaurantID": "R0y03SFOY0BdHRUT1LSO0Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 465}} 
+{"RestaurantID": "vA2VEhW6S1ioX6tXtQdO9A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 466}} 
+{"RestaurantID": "j0tkph2po_37gtZ1ufxiow", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 467}} 
+{"RestaurantID": "BcOuqkUniZJG5NLpdzeOYQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 468}} 
+{"RestaurantID": "0GftSP2dRwEzujkv2VKIgA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 469}} 
+{"RestaurantID": "3TMP2pncE-0LwoDukbaqlg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 470}} 
+{"RestaurantID": "5yHuB6cT4Y82u22kOziobw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 471}} 
+{"RestaurantID": "C6NvtFvXo86_kEWi3qBYWQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 472}} 
+{"RestaurantID": "akWRnF0VFJLJD4uOnGWB-g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 473}} 
+{"RestaurantID": "vbL4Ef8zf4dmdR9Gyl5lkw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 474}} 
+{"RestaurantID": "d6i6sGHtPmyUkHze5S1lIQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 475}} 
+{"RestaurantID": "MMotl_bi3-5JRra91A2jLA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 476}} 
+{"RestaurantID": "TxaxeiUqQqcFrWrerNqgXw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 477}} 
+{"RestaurantID": "UFeM5FPHjl1y8RQ4tvBSog", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 478}} 
+{"RestaurantID": "LYp3izplqg0x-h9CBlb-MQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 479}} 
+{"RestaurantID": "2YYXbDTL9G6LyuNvZGCvyQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 480}} 
+{"RestaurantID": "zqyGYIiCXL1Hz8KVZxbylQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 481}} 
+{"RestaurantID": "8td6qiBvZ-En6gSpPjXWzQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 482}} 
+{"RestaurantID": "fVPF1SCGg37D8gRw1UQIuQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 483}} 
+{"RestaurantID": "uuDvk4EsRUkeTj4jVKJOpw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 484}} 
+{"RestaurantID": "Q85ScF9s6vlS5_i453AFvg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 485}} 
+{"RestaurantID": "56wxE888GknVcUeAXBfqFw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 486}} 
+{"RestaurantID": "98SsKXNs37ohAQERZbBPJg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 487}} 
+{"RestaurantID": "Mzt7J53rOihwxIt41SH7vg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 488}} 
+{"RestaurantID": "rpIMYwZhRJZKl0-AUgUrjw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 489}} 
+{"RestaurantID": "UB23VDCxby5dFVfsMpuXbQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 490}} 
+{"RestaurantID": "5ccJFGa6crpptt9tW0YKAA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 491}} 
+{"RestaurantID": "wcrra8bgoqXVcZpMM5fE1g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 492}} 
+{"RestaurantID": "X5HmML-G--nt4lc5VQC2uQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 493}} 
+{"RestaurantID": "FK5RnNOUxxIImPVcAHGM4w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 494}} 
+{"RestaurantID": "-FSwYW_xV__5KHTIc56B0Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 495}} 
+{"RestaurantID": "DdoubmNfPNRi9xNmcQ64ug", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 496}} 
+{"RestaurantID": "AILf_L7I9vJ2pyHmSo9v8Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 497}} 
+{"RestaurantID": "6uPtOyrxXV8y1y8pvLU2pA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 498}} 
+{"RestaurantID": "EV2grf7NhNHQTmBXfu1-NA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 499}} 
+{"RestaurantID": "Nbqzy3ea5_x2zXWkdWlUIQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 500}} 
+{"RestaurantID": "Zx44jCgDv1TwKMGzcXajIQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 501}} 
+{"RestaurantID": "N--h7x9gMLbu7EgCLZ_w9A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 502}} 
+{"RestaurantID": "tguMh2GgOcU9fu6WN3dqpw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 503}} 
+{"RestaurantID": "IQ91FltwJmIPhS6fKKf2pw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 504}} 
+{"RestaurantID": "Sqp7ukA0qpGcqWbDgMSOCA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 505}} 
+{"RestaurantID": "ltk6eEztrcwqnxlJyz09Iw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 506}} 
+{"RestaurantID": "i2sHvYTM-vuvqqmgbFZwnQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 507}} 
+{"RestaurantID": "DJTvIuXvjoYsypytSD5qJw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 508}} 
+{"RestaurantID": "nALIXRUb7yvg8ZCS68m8iw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 509}} 
+{"RestaurantID": "huguW14qFJAMfVNhH_VxqQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 510}} 
+{"RestaurantID": "d6pcRMV1YUDFTKO_p9d-sA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 511}} 
+{"RestaurantID": "4OGtGzKP6fvRu7MfQMRSEQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 512}} 
+{"RestaurantID": "KUEwlsurqKAl6JcAxzVAvA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 513}} 
+{"RestaurantID": "LJntAPKObO0OfydYm3_bzQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 514}} 
+{"RestaurantID": "96D85AGxI37JNnveZbC6CA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 515}} 
+{"RestaurantID": "RUnj4RTVOSbbHE5zyguhrg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 516}} 
+{"RestaurantID": "UeaA5kaaqC8sdCuPqZujmg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 517}} 
+{"RestaurantID": "6LfskUyZzmcDSV6h5kOwGw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 518}} 
+{"RestaurantID": "fNaLjoYBnUfO5LooVNGiZw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 519}} 
+{"RestaurantID": "8ceGPxcSMdwa8k7y-DLZxA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 520}} 
+{"RestaurantID": "5KDfEi17KRFD1TrzZyT4lQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 521}} 
+{"RestaurantID": "IregrqaJgF9jEghC5yljFw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 522}} 
+{"RestaurantID": "5sG_S51rleFhCKLgQpXc_g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 523}} 
+{"RestaurantID": "ru9KtvY8f_b2SKrKwtS3CA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 524}} 
+{"RestaurantID": "h4co9O0SLuvhTtr_Cs9IIQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 525}} 
+{"RestaurantID": "owKe1hapqCCLnme2Xr3mrA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 526}} 
+{"RestaurantID": "cOtB9fWWLrbaBebZDjJquQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 527}} 
+{"RestaurantID": "sb1_MyLHzmjV1Jk21pyOIA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 528}} 
+{"RestaurantID": "dSaMEWm0EQTG4TOeUetU5w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 529}} 
+{"RestaurantID": "U0SmczzYhahOeRxftjBPSg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 530}} 
+{"RestaurantID": "3Qpi419I29t3sCHMzC_h-g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 531}} 
+{"RestaurantID": "GCcJqfBm3Fq-ccYwit6xcw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 532}} 
+{"RestaurantID": "DtkyPDGAodq5bAesiFa-JQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 533}} 
+{"RestaurantID": "8ObY1IkKWvx99nIOqRBshA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 534}} 
+{"RestaurantID": "Ug2_5DOrlfaU1Pce5Lvikw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 535}} 
+{"RestaurantID": "_EgBjtufCZIWwUkRn53OAA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 536}} 
+{"RestaurantID": "kqJApXkfFn42SZZG7QTc4w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 537}} 
+{"RestaurantID": "A0saPXtRGKl-SVJGQyQAOw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 538}} 
+{"RestaurantID": "dv-RaOwKFizDe4c5-sVJ5w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 539}} 
+{"RestaurantID": "bAMTBEztHz4zQqYiIyzf4w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 540}} 
+{"RestaurantID": "vsFGj_fQkrTmEoLaXU3DCA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 541}} 
+{"RestaurantID": "y8JSKjpWeQg8vzm5wovOwQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 542}} 
+{"RestaurantID": "S-aX_Pz8F7nDL6kRThKcHw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 543}} 
+{"RestaurantID": "xOL2SC34gdhKHSbyaDz9BA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 544}} 
+{"RestaurantID": "kHlYnhMOoMBbe3VCZflpKQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 545}} 
+{"RestaurantID": "WgQkB7cbPNgj0pLin7gQtw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 546}} 
+{"RestaurantID": "yVDNPV0Yf3vQAsXTJett1g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 547}} 
+{"RestaurantID": "lGLeaVcg7U4tOfJFhVqGng", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 548}} 
+{"RestaurantID": "k4QfaFoqtpEZ1LZylJZqww", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 549}} 
+{"RestaurantID": "Ex_qolTE5syJ8so0NscfGw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 550}} 
+{"RestaurantID": "TedFbN-fnKfoljL-uQQwIw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 551}} 
+{"RestaurantID": "zEIt0xaPM9DIS-pc118O6A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 552}} 
+{"RestaurantID": "MOVU97uI95urhDH5gM5nQw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 553}} 
+{"RestaurantID": "Qi1AoRNcFEX8etII_RZkFg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 554}} 
+{"RestaurantID": "PKkCtyZQpVEzivSF41ZgIw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 555}} 
+{"RestaurantID": "6zM0c7vvoddgza_qvKkATw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 556}} 
+{"RestaurantID": "-4pRolL6EQddbv4iHrIZwQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 557}} 
+{"RestaurantID": "spJTHaNjEzKwoEiYWR1ggA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 558}} 
+{"RestaurantID": "2AFr9Q5cfWh_lkj2ChykDg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 559}} 
+{"RestaurantID": "1SVf6bO7gWm6HWlupMF15Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 560}} 
+{"RestaurantID": "sinDhwX8Egru_3FCI7bhkw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 561}} 
+{"RestaurantID": "majyHtjuTaFZKYpMNCLe_Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 562}} 
+{"RestaurantID": "Aw69I2eD-lYffytWGGYM8A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 563}} 
+{"RestaurantID": "1UtavhY5umBJPJkP2jJGMw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 564}} 
+{"RestaurantID": "5fRh0bh2HDGYb7Lsms36vQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 565}} 
+{"RestaurantID": "p2zm0HnXZkI2yCAuYLb45g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 566}} 
+{"RestaurantID": "2JGyD4VesHPsVRsLpNXgYw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 567}} 
+{"RestaurantID": "YKsHo3V-PkeRQdLYOdG7ZA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 568}} 
+{"RestaurantID": "Ms6jgxyr0uW_aPbJoz_1Yw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 569}} 
+{"RestaurantID": "h3yz3w8ke1jIaGnqGln93A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 570}} 
+{"RestaurantID": "iGiDvA-WNKAL2WsU0m5_Xg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 571}} 
+{"RestaurantID": "kNOr6_g6QfBHdhf89j3g5w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 572}} 
+{"RestaurantID": "Qd4LleGL1MU7hcBYXcyVSA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 573}} 
+{"RestaurantID": "tX_fGX09HCMvXTzHDZQoYw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 574}} 
+{"RestaurantID": "_7rU61c3WTVfPS_-FNup8g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 575}} 
+{"RestaurantID": "8_dWO1Y6o8fZk_FosHhg-A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 576}} 
+{"RestaurantID": "_eWN3zih_cnY0fiLWva9EA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 577}} 
+{"RestaurantID": "ezh0BG1qWKKLJa99gb-XzQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 578}} 
+{"RestaurantID": "I6XC8dNxUzIcIOEbq3LJsQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 579}} 
+{"RestaurantID": "gVcQC9fcWFB5kyLjFCsx1w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 580}} 
+{"RestaurantID": "zqi2taRgN5VzkEMQGOMQHg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 581}} 
+{"RestaurantID": "zz5vbf1jm5TIX6bOK7HJVg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 582}} 
+{"RestaurantID": "vSkCDRWX6VvP4PJHHFgoDw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 583}} 
+{"RestaurantID": "Wq9cARVEwOmoqfg41mNRNg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 584}} 
+{"RestaurantID": "6KWuxjK1ey72cW8LVuoV5A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 585}} 
+{"RestaurantID": "RBpwDqMpajBLLjMKOPrUxg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 586}} 
+{"RestaurantID": "AeLz0uoZH3hxmkcXlwUIGg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 587}} 
+{"RestaurantID": "HM6cvh5A9LLBeb4Sca6fPA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 588}} 
+{"RestaurantID": "-bM9YDomW6BX3zGDHN24XQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 589}} 
+{"RestaurantID": "PLHPKk7wDlKDNyA1qowV4w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 590}} 
+{"RestaurantID": "lmiwPS9tl3cyMDGDeVstqQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 591}} 
+{"RestaurantID": "s1uT-RIpz6X3dN-n3NeAZA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 592}} 
+{"RestaurantID": "741IMLpXPq755tDaEYXAtA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 593}} 
+{"RestaurantID": "6OWMji5GiqRlRPZSb1lJ4A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 594}} 
+{"RestaurantID": "y8Z9Tos6qtDVd0X0QVm70g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 595}} 
+{"RestaurantID": "e03tT0hH6qU-_dR8pwFa0Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 596}} 
+{"RestaurantID": "XH2CNWlLU2HXROsT5NkCmA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 597}} 
+{"RestaurantID": "j61hBldPvd47MdLgeySlxQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 598}} 
+{"RestaurantID": "RLAs8M-IQfAgp551rkFNGg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 599}} 
+{"RestaurantID": "JvkUu0bpYEEPOvZWyBtTUw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 600}} 
+{"RestaurantID": "fa5a7jksUak7yleWLWMigg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 601}} 
+{"RestaurantID": "fa5a7jksUak7yleWLWMigg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 602}} 
+{"RestaurantID": "AvTezlpt3GXTdSEnXbHP4w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 603}} 
+{"RestaurantID": "v2783z5F7lkcltVwxJeT6w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 604}} 
+{"RestaurantID": "Tjo8JXQzoBwvw_QYicejiw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 605}} 
+{"RestaurantID": "rPTX2J5KGDkN1QhPD-QOvg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 606}} 
+{"RestaurantID": "MLeE8S5hy70A3CEqp2lD8w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 607}} 
+{"RestaurantID": "T_72OxeFKvdzX-mKEztHdQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 608}} 
+{"RestaurantID": "QU_ljYO36XAj1Oen-iWRiA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 609}} 
+{"RestaurantID": "ZBuUVSietNeZ0sCD7Z7Hdg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 610}} 
+{"RestaurantID": "lKxmH-hQ6ezKbq4URKrd-Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 611}} 
+{"RestaurantID": "nZnJ5bNiQn1r4LWgqDeW2Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 612}} 
+{"RestaurantID": "cCHkQ5oISNafWnLoBpsagg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 613}} 
+{"RestaurantID": "rHA9M0XOJL6O11xaEiDurA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 614}} 
+{"RestaurantID": "ZRzSjuR2MA3-2Ay3VTzXXQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 615}} 
+{"RestaurantID": "U2x299aFPwXRYXlMxyO4tw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 616}} 
+{"RestaurantID": "3NHexRXpc3Asuo0elQcDSw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 617}} 
+{"RestaurantID": "V2P3CWfUW_olSywlOlHGjQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 618}} 
+{"RestaurantID": "Wa_-nKA-IWYMN15YagHr9w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 619}} 
+{"RestaurantID": "iKW9zBGWfE9CM6MfK0UtjA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 620}} 
+{"RestaurantID": "xNLwx39xvgn95aTzGLpQBw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 621}} 
+{"RestaurantID": "ikVDSp8YhAYuy0Lua1hpDA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 622}} 
+{"RestaurantID": "JX5QkNfMd-jP-Nz5iQ_QeA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 623}} 
+{"RestaurantID": "Jr8S-deYDqbDoo-eJI7nyg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 624}} 
+{"RestaurantID": "dfm69NWJMqvLbQBKlaFd7w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 625}} 
+{"RestaurantID": "TbbpihlBxYidyE_O65Ajbw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 626}} 
+{"RestaurantID": "McU7XI3HoWFELTDaGc1SEw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 627}} 
+{"RestaurantID": "_7jEITBmNIMD73_ni89MaQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 628}} 
+{"RestaurantID": "S7ivv5O0beH3U9cV3cRD_Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 629}} 
+{"RestaurantID": "LpSjWO4ZU6rbxGUetRp1mA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 630}} 
+{"RestaurantID": "fPW_GBZsnBNsIzK62sCHBg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 631}} 
+{"RestaurantID": "7_Dwf153h3_waVtmfYd8QQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 632}} 
+{"RestaurantID": "za9mYaRVWkwKkQfjRgvU0g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 633}} 
+{"RestaurantID": "V-rY0hlPjAghV14jOlVUiQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 634}} 
+{"RestaurantID": "i4cyV13lYIS4mcJKZW75cA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 635}} 
+{"RestaurantID": "Wezt_3dALzHmfXjHOPG4GQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 636}} 
+{"RestaurantID": "j9LAlbSiqGlvfAOt8LRRzQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 637}} 
+{"RestaurantID": "O3yWGOlEtI-nILSQdzglcw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 638}} 
+{"RestaurantID": "pUQQkYv4NkfRA_e2JRO27w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 639}} 
+{"RestaurantID": "gABJfl51T0QXitBlXlVB4g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 640}} 
+{"RestaurantID": "33ry5dmopDOElU7zf1Sn2w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 641}} 
+{"RestaurantID": "doh4MaWFToZ7f4rbfc3Mxg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 642}} 
+{"RestaurantID": "gpt2U4ecZSCLmgVQPtkzbA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 643}} 
+{"RestaurantID": "O2jCWIOWb-IhyZGZLTNNoA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 644}} 
+{"RestaurantID": "Nxxn3PfmNvEtKCn_OSwY8A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 645}} 
+{"RestaurantID": "wdGMVLUzocmnl2tST0lheg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 646}} 
+{"RestaurantID": "ieOIBz6Gfqmwm1B0wUzh9g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 647}} 
+{"RestaurantID": "AL2IGLkQ72b_ykGInqaJPg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 648}} 
+{"RestaurantID": "SMImQM_JfZkIZwflTgOAoQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 649}} 
+{"RestaurantID": "Vb9IMzmaO3oSYAE75B-pJw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 650}} 
+{"RestaurantID": "U9bU_xY11bu88lYZwnMVfQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 651}} 
+{"RestaurantID": "c9I4-T9wTlMmJEHb4obEdQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 652}} 
+{"RestaurantID": "nAcVK-Y1_ojsRF_04o-x-A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 653}} 
+{"RestaurantID": "b03GEE_pYlLCdD6yShZKqw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 654}} 
+{"RestaurantID": "s-UAKra4P0sFE9ylXlwwfA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 655}} 
+{"RestaurantID": "lv0qUfiaHPXKO8lfYu6R4g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 656}} 
+{"RestaurantID": "YzyHW3w0HUyaG8EvplNT1A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 657}} 
+{"RestaurantID": "AlLqmFhO467xp6PFMKCI3w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 658}} 
+{"RestaurantID": "Vbmv3T7hr_owVic5BQXs5w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 659}} 
+{"RestaurantID": "TUpKY3rsYnrYHkbuD46bxg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 660}} 
+{"RestaurantID": "bH6U8bze3zVTUBOPm913NQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 661}} 
+{"RestaurantID": "pov0n15Vf6R-tPWWLq8uUQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 662}} 
+{"RestaurantID": "4Z_ldLCxIW-u3T5AJnv5tQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 663}} 
+{"RestaurantID": "RL1YogACkp6zHImeL9401Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 664}} 
+{"RestaurantID": "DjLxykRuP8OFtGtPPZpfdQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 665}} 
+{"RestaurantID": "BJn68qCExYQrPCT7CeOpzw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 666}} 
+{"RestaurantID": "_7_u6U5uwhDkVi7JJakyGA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 667}} 
+{"RestaurantID": "c1HgKFOT4Cc7TqWQD5mQBQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 668}} 
+{"RestaurantID": "DiNkdAL8ns1v3S3WfUGVwA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 669}} 
+{"RestaurantID": "wUKR0A14ZwXfHDLjtiaT_g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 670}} 
+{"RestaurantID": "InEqFA1IvuSLhvDBXhBR0w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 671}} 
+{"RestaurantID": "--SoNTeCXFUx56no0OgibQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 672}} 
+{"RestaurantID": "7qvHljqtI4UZEXwpPp3Yug", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 673}} 
+{"RestaurantID": "BKABojUN3G9vUrG3AlDZgQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 674}} 
+{"RestaurantID": "_3-d9GcVU7NvQvmUWaRZUQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 675}} 
+{"RestaurantID": "sDV6FvOeHymy2Fu9cJTMMw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 676}} 
+{"RestaurantID": "FnWeS2HRGvDimOHMHRHOsw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 677}} 
+{"RestaurantID": "gxEYxWqKVhs8xBw9Lvd7hA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 678}} 
+{"RestaurantID": "7erFgHiQmw7ZJfVPmOjeeA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 679}} 
+{"RestaurantID": "xi_QX5uArqDM4LeL4WIv1Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 680}} 
+{"RestaurantID": "hjlvKeRTHA5mh1dNX4yM-w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 681}} 
+{"RestaurantID": "oczaVdQ3NRSKJpNo-4undg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 682}} 
+{"RestaurantID": "VEjkxniAlG35cR3pjHvF-A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 683}} 
+{"RestaurantID": "vC3yBLteaaPp0ycXRtfwPA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 684}} 
+{"RestaurantID": "CDa0GJZDMPcjvhbx7RbG5Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 685}} 
+{"RestaurantID": "agCuWjaUJ8xBO_PDDQRiGw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 686}} 
+{"RestaurantID": "6qK0MyhsXYLgMSPWZdleGA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 687}} 
+{"RestaurantID": "aPI3_mdisxIOo9EwBEJPZQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 688}} 
+{"RestaurantID": "uthkinOdYCrM0j-5tYC63w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 689}} 
+{"RestaurantID": "SKoMUaQewpMdj1Mg8QvBNw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 690}} 
+{"RestaurantID": "OLSSJIp8pu5UlugTF7tuHA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 691}} 
+{"RestaurantID": "pXxBeKXDgcNSioo-3ysMcg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 692}} 
+{"RestaurantID": "JbAdL2vOd-8O_Xa2wRktug", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 693}} 
+{"RestaurantID": "G2lMrqIfCVZKjw3R6wzPzQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 694}} 
+{"RestaurantID": "D7ubqwghA8NrJPlI5HZcpw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 695}} 
+{"RestaurantID": "jfOMJ8y3llPbVJosDybLMw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 696}} 
+{"RestaurantID": "XDboe1zVxSRRMgHObYULSA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 697}} 
+{"RestaurantID": "q2HGvziLlfQGChoDPFjTCQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 698}} 
+{"RestaurantID": "2rqb2T5IS2D7A6UB5QwNKw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 699}} 
+{"RestaurantID": "nTHJVJDkzNDTF4lsKyoUAg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 700}} 
+{"RestaurantID": "A_e9adJ7v_U7trur2JMrgA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 701}} 
+{"RestaurantID": "KvZCCFD8RTyeNe7L4_mLog", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 702}} 
+{"RestaurantID": "sYK7jLKyfJJhf9fqC77hLA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 703}} 
+{"RestaurantID": "ovOupYdkZOWUeDMOdt--ng", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 704}} 
+{"RestaurantID": "ATqzYWJLxhNlaXGjmHGNZQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 705}} 
+{"RestaurantID": "GDqIF-JMOO-8EM3yKn25_w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 706}} 
+{"RestaurantID": "_hIxEP_Wd13cjNJ1tcf6KQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 707}} 
+{"RestaurantID": "jO6NX93q_fYwYTHkqJ57Dg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 708}} 
+{"RestaurantID": "4UaeyfC4XYi-Dibn053xzQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 709}} 
+{"RestaurantID": "a52GUjv7jYD3Baa0Ltbytw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 710}} 
+{"RestaurantID": "OX2B4KARPKNTxC39wpcqDA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 711}} 
+{"RestaurantID": "ZYWwYSXWyDlVYIjPgXmIQA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 712}} 
+{"RestaurantID": "U7N6Jd8Qe7rbYB87pwuAoA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 713}} 
+{"RestaurantID": "dBpttLTwkOT3HtFZ-u9vgQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 714}} 
+{"RestaurantID": "OppTOs3uBwOG29yF45lb8A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 715}} 
+{"RestaurantID": "8ZF3-QQ5ea8zQTeyZ2pIuQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 716}} 
+{"RestaurantID": "kYJbGSjyXocbRrgMV-zExg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 717}} 
+{"RestaurantID": "ye-TSU-mu1Gd5TAJOpI5Mg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 718}} 
+{"RestaurantID": "gvAzBcK3YZf6UQqOerqF2w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 719}} 
+{"RestaurantID": "4--r7DCu5l9UEIjs4OwKSQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 720}} 
+{"RestaurantID": "0WDHtP31HeVY0LP8INiFzQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 721}} 
+{"RestaurantID": "nXh79laNQ7leN92F5Ore-Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 722}} 
+{"RestaurantID": "_kD3Gy4shZT_RGwkARiffQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 723}} 
+{"RestaurantID": "aPThNhqjq5rfN9c8ykcarA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 724}} 
+{"RestaurantID": "w0KRT7v9_hsVkcRVMsD2Jg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 725}} 
+{"RestaurantID": "gGF5MvJ1i4D5Uj7aJgY9jw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 726}} 
+{"RestaurantID": "9JIV8fh01kURbaw2pB1rdA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 727}} 
+{"RestaurantID": "bKXnm2k44mSdU0fP69lY-g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 728}} 
+{"RestaurantID": "JRmQRFEEnSUdAcesHun9AQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 729}} 
+{"RestaurantID": "5Iri-tiW20KKM3iCwD_xCA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 730}} 
+{"RestaurantID": "GrxbGiLMkl1jd665k1lbIQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 731}} 
+{"RestaurantID": "51DwJDP5TOlsCQYc0GQdVQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 732}} 
+{"RestaurantID": "Yrsdl3AaTwMXHZnv4eKQBQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 733}} 
+{"RestaurantID": "e-6UcplEErq2Hj14-eiM6Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 734}} 
+{"RestaurantID": "Jn_p5WaprUY3Ql_539gsWw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 735}} 
+{"RestaurantID": "EVQQ1Fs1YNlKd4HuxmzlJQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 736}} 
+{"RestaurantID": "lBFq-P2OGDZy2aPEKgUMfg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 737}} 
+{"RestaurantID": "XkL6fOBtaIqVCMXVCY9row", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 738}} 
+{"RestaurantID": "_Acmtq5Nnv4Xmqmz914CUg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 739}} 
+{"RestaurantID": "TAm8Eauo0NQNHpjOAWXo2A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 740}} 
+{"RestaurantID": "eX0Crp7qCYk0wRTTuMdFJg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 741}} 
+{"RestaurantID": "bfg1MmcnH6DO1dgF_tLxkA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 742}} 
+{"RestaurantID": "dSZH0XgoZ-AT0qezA9Xx-g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 743}} 
+{"RestaurantID": "rk8V5c1Wr5gVLKOaY0g4VQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 744}} 
+{"RestaurantID": "_O3q6PSXNoPapUar-RVXPw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 745}} 
+{"RestaurantID": "x_t-FtDa5HVgc-wecp0HBg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 746}} 
+{"RestaurantID": "_CcEaSKTpzZIczrRzCRAPQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 747}} 
+{"RestaurantID": "Rp-kcJD6Dwaq0c4Kuj6aiw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 748}} 
+{"RestaurantID": "Qsc2DrX3IR-uGfwnUlOzcA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 749}} 
+{"RestaurantID": "Z8dzjqeRl8Q9tU1uytXDwA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 750}} 
+{"RestaurantID": "nrsWSUJdNtOhV2UzPi-oOQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 751}} 
+{"RestaurantID": "anayUOcPkiAvijszwOf_Rw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 752}} 
+{"RestaurantID": "kwGaeWUVC_MIxMFw0sM-Ww", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 753}} 
+{"RestaurantID": "GD-tsn8khDevVa7-KQK3ZQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 754}} 
+{"RestaurantID": "dtk1Cstz5MHr-B1AOM_nXA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 755}} 
+{"RestaurantID": "9K8VhYvIA26AFMQY8S1soQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 756}} 
+{"RestaurantID": "qusZ-K5tzM1EyOa1IEWCHA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 757}} 
+{"RestaurantID": "ySLc7OqAMtPseGww5rWprQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 758}} 
+{"RestaurantID": "xTNRPg456MAC6Zja0bve9Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 759}} 
+{"RestaurantID": "_MdNLeBAcwv5Nb2yArZFvg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 760}} 
+{"RestaurantID": "g7LLglNkZODPM6VyIqiEAQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 761}} 
+{"RestaurantID": "OBiBi8nimTl9GF64sPQfuQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 762}} 
+{"RestaurantID": "RdGWCbcxA79G1ZMPVL3SGQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 763}} 
+{"RestaurantID": "31yEM_YcyAqG6an7attTlg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 764}} 
+{"RestaurantID": "3uXPkkEZbUrbk3e04aBZmQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 765}} 
+{"RestaurantID": "AyL0Q6_hFD04GLxwRxOFrA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 766}} 
+{"RestaurantID": "U2aUFZARLeSMf4RQIxjuTw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 767}} 
+{"RestaurantID": "R8V6kbUtyfPAwNNu46vMvg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 768}} 
+{"RestaurantID": "yUVcpgecpq1qncpa1x34Hg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 769}} 
+{"RestaurantID": "QQfwlKFD6X8-ZXf7gfQZqg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 770}} 
+{"RestaurantID": "5AD9nY8UrYlCVMb3Y6KeWg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 771}} 
+{"RestaurantID": "VwRf5JAGAMJIfAfvp0zTNg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 772}} 
+{"RestaurantID": "hgCYM-CETMxmNCerr2LrEQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 773}} 
+{"RestaurantID": "oh6u1GJ3jFJqQDX1oxIJAg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 774}} 
+{"RestaurantID": "x_FHPGBxMVrar9lcO7DUrQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 775}} 
+{"RestaurantID": "3OT1deSiIYhrcXWJ1sD3wA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 776}} 
+{"RestaurantID": "wQxJkDpO3kOSBRSsRi3CaA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 777}} 
+{"RestaurantID": "Neiw4AB_s7BpLSxyUrSXBQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 778}} 
+{"RestaurantID": "pfzQGY4bgpxBWR26a6rzxQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 779}} 
+{"RestaurantID": "l1JP5MiQja95rF99qeJ1zw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 780}} 
+{"RestaurantID": "s_N9uqqUqjgL7O-bHKZ80w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 781}} 
+{"RestaurantID": "I3_4xi2YNywn8-SKefQDjg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 782}} 
+{"RestaurantID": "inA7o0esW4cBTdR6wZ-I9A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 783}} 
+{"RestaurantID": "BEuZGvNlbM4tXq7YICyM6w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 784}} 
+{"RestaurantID": "MxdsqhU-Qq34WAl5qL4wsQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 785}} 
+{"RestaurantID": "jXL7zCeuhZnQVei5rfq7qw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 786}} 
+{"RestaurantID": "BG0F1eTMikmXnL2C03Oq3A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 787}} 
+{"RestaurantID": "78T09sip-rf1Lgqu-psg2w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 788}} 
+{"RestaurantID": "GfLL6-n6UNZ07SEHfjeIgA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 789}} 
+{"RestaurantID": "G4K-mNlM0oLKo8N--Ne2AA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 790}} 
+{"RestaurantID": "Yj3pRPnIG05AjRfGP0Afjg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 791}} 
+{"RestaurantID": "1THlGdn06KHrP5meWQ_1zg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 792}} 
+{"RestaurantID": "5W89QQZqPJazBS80anuu3Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 793}} 
+{"RestaurantID": "QlVBFWxQ-HY-O2AmqHiJxA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 794}} 
+{"RestaurantID": "aLLW3s2Ea0dmUsmg_a8Csg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 795}} 
+{"RestaurantID": "zhkyBId_RIPyiOFE2R1PRg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 796}} 
+{"RestaurantID": "7uAxbCgcY33A0NeUb2frlQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 797}} 
+{"RestaurantID": "azHDhKQ4ta-RBzBD_yHKww", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 798}} 
+{"RestaurantID": "ENfB82aVceC3VcTfq54rxQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 799}} 
+{"RestaurantID": "c6A3P3Az_Ft2NT2ReqqxDw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 800}} 
+{"RestaurantID": "j6nn4UtRCYbaeQ267dTCug", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 801}} 
+{"RestaurantID": "tq5Cqcwpf9AKqX2CCEvtSg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 802}} 
+{"RestaurantID": "naXE13hiCj-7LMMgcueLMg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 803}} 
+{"RestaurantID": "e6ejRujpo-LIgiBRF2z8ww", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 804}} 
+{"RestaurantID": "PpRcR8PPK3bdLCzAevOosw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 805}} 
+{"RestaurantID": "ipv4lBvbfVzCnSahqrJckQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 806}} 
+{"RestaurantID": "dxHn9Zk17fiY-9CvydZdgg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 807}} 
+{"RestaurantID": "CR8n66nIAaQJRESGn0kCeg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 808}} 
+{"RestaurantID": "YCBjn0t4bMaQb8Bk7l37ng", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 809}} 
+{"RestaurantID": "GqSpM6WLGa-lFNku-wYGuA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 810}} 
+{"RestaurantID": "X1upzQ1oDfU9Jb378kUkRA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 811}} 
+{"RestaurantID": "0yC40qHlgV3LTVx_jEr8pg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 812}} 
+{"RestaurantID": "zdX9mwhoknXXYL1GCstnow", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 813}} 
+{"RestaurantID": "Wc_vQmkP7tb8eQQfwd39Qw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 814}} 
+{"RestaurantID": "PYN67roncq-uYxKWPd7ukQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 815}} 
+{"RestaurantID": "2z_2ETItITMQiuAE7tTZAQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 816}} 
+{"RestaurantID": "GmtybiZEicQ4qqPTzhqVew", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 817}} 
+{"RestaurantID": "XbQNANeO1E4-yanLZHgCmw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 818}} 
+{"RestaurantID": "JE3i1eX-qGkEdMWMdEC56Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 819}} 
+{"RestaurantID": "J_CmfwKnzYbfRHvncl7uVA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 820}} 
+{"RestaurantID": "S7vbop89Qs2v5WqELlp0JA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 821}} 
+{"RestaurantID": "XjPfgkSP-RDEkq_ox8fE3A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 822}} 
+{"RestaurantID": "ECKMWJwm_sihRQIP1ydeOA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 823}} 
+{"RestaurantID": "9ieA0TyApI94wEqqW_r93w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 824}} 
+{"RestaurantID": "SduYUnNnuA93MVg4FrIguA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 825}} 
+{"RestaurantID": "gl1p0g_BN_DC4Eh_hRaUEg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 826}} 
+{"RestaurantID": "7GFuwK9bv_rmn_-eykzk8Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 827}} 
+{"RestaurantID": "PUwrkoUztUYs4VdHlK9qBg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 828}} 
+{"RestaurantID": "-HIsDolVluV6n5tlfQGB5w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 829}} 
+{"RestaurantID": "4fBgrzK3S_zSlVJ6sLJYTA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 830}} 
+{"RestaurantID": "xBTqo83cgF4TvCjKFjlwqQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 831}} 
+{"RestaurantID": "6gsxavB8DolodZl-fZX65Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 832}} 
+{"RestaurantID": "7g9GDy7rPg6yVs4RjTm9FQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 833}} 
+{"RestaurantID": "VrUqSxFaaFcN7T01pCCMwQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 834}} 
+{"RestaurantID": "JTFc6V7JLTdiUL3LuH7LiQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 835}} 
+{"RestaurantID": "fBOhaN4rabcM9aJg5qWM-w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 836}} 
+{"RestaurantID": "2Ja9jloYL0JGjhgMD2cevA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 837}} 
+{"RestaurantID": "JKnQE46rkZzmHDlX8yyumg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 838}} 
+{"RestaurantID": "kjItczuC-FQa-nECT9VF8A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 839}} 
+{"RestaurantID": "E1fFQqXuO2Ido9hGDmTbDg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 840}} 
+{"RestaurantID": "FeTHmYg5RJiE23yFIPO7sg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 841}} 
+{"RestaurantID": "VaDTMmv1Yq7A4xBhd1Mb_Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 842}} 
+{"RestaurantID": "__r8_g1cgDaiDn10cGeJ3Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 843}} 
+{"RestaurantID": "qb8zEppvglM41R6oZHx2FQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 844}} 
+{"RestaurantID": "6Jjz97KPJ0jtmmIBCjReEw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 845}} 
+{"RestaurantID": "czQm6Ull9V6b-64amhUMyA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 846}} 
+{"RestaurantID": "1KoKR9fug8VXZr5tqqtimQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 847}} 
+{"RestaurantID": "_XLLSXPIjgoZQtwU3RCcQA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 848}} 
+{"RestaurantID": "JU-hU3RJ_56KMYdYhp0zyw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 849}} 
+{"RestaurantID": "zWDiH7KpUhRhv1cPNExMDg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 850}} 
+{"RestaurantID": "uD0Tnv0DsMU_JhG7UlYRew", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 851}} 
+{"RestaurantID": "4fQuriJ0mFzzG6RE1cRV5A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 852}} 
+{"RestaurantID": "vLsTPg42rkgN5rUpNfg1OA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 853}} 
+{"RestaurantID": "eS9mTLlWwu_Ap2ROMQWPxg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 854}} 
+{"RestaurantID": "b6O3gPP3S0eugOO4tIbxPg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 855}} 
+{"RestaurantID": "4NCvsUR3cKLaPgIZJK622w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 856}} 
+{"RestaurantID": "TjB0wn5MyHM5rDMBCSCnfw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 857}} 
+{"RestaurantID": "qd5JBbRv6iFBuqaCkCEOvQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 858}} 
+{"RestaurantID": "9yTwuznxkJo9JZl7KBZ0zw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 859}} 
+{"RestaurantID": "sGwQYKPaMJ-tD2E4fQ0EJQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 860}} 
+{"RestaurantID": "GKZa6xX1ZctdDTLDyfGBHw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 861}} 
+{"RestaurantID": "_BL1-CT06HGkiA3jcucu2Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 862}} 
+{"RestaurantID": "Dh2I2jRTXE7oDCfuA9vCoQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 863}} 
+{"RestaurantID": "WpfuHkTsiRN2EerQ8ZaG4g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 864}} 
+{"RestaurantID": "2VpurA2lb-q90nmALklNcA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 865}} 
+{"RestaurantID": "6gE9N5wD4K-bbmSEBm7Lhw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 866}} 
+{"RestaurantID": "sp2PDj9G6yDw-3YcSo0Zkg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 867}} 
+{"RestaurantID": "grg_0Zt9WwCmXHPjWu7b-Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 868}} 
+{"RestaurantID": "vGS8gDY40HaX0Xsbkl3nEg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 869}} 
+{"RestaurantID": "k_y6o8zqI3cODdKABwWZ9g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 870}} 
+{"RestaurantID": "UYYtmHw1gD3MIg1dMRY7hg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 871}} 
+{"RestaurantID": "r16il2wCv7glckJ8QkO1-g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 872}} 
+{"RestaurantID": "wFjW3d0PDr2Lb_54RmnB6Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 873}} 
+{"RestaurantID": "Yo6D3B8TP_xdN1yaoNc0Ww", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 874}} 
+{"RestaurantID": "R1eZIyH8dOECfqUGGcANdQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 875}} 
+{"RestaurantID": "6aOITRm4GrNbAJ9Li1J_yQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 876}} 
+{"RestaurantID": "bVEvRibOk3dukWJ8TiU7GQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 877}} 
+{"RestaurantID": "a-hVnSTC12MY5L3t9yOSJw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 878}} 
+{"RestaurantID": "DY0y0KPwu8LnQteNB-uoAQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 879}} 
+{"RestaurantID": "gqUR7hd3NsxOD_JrD-iFfQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 880}} 
+{"RestaurantID": "Em1w7fCeJqcZUBRS_QuTEg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 881}} 
+{"RestaurantID": "TWI3efEcCVsTErKFWz4Zqg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 882}} 
+{"RestaurantID": "7yi9uA-LmrGpG6OOuK2byg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 883}} 
+{"RestaurantID": "g42C_GsiLWzbVY2OZQsoyw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 884}} 
+{"RestaurantID": "zPK48x2wvTmJTQ_13bbeRQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 885}} 
+{"RestaurantID": "CsRZKzk0ZJjsBi3y0vDaiw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 886}} 
+{"RestaurantID": "UNLfH42wkAAChV76hmbdkg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 887}} 
+{"RestaurantID": "2VQDEQuK3xLFNktPBIpmuQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 888}} 
+{"RestaurantID": "OpOwJYqJRgRnoBKKPYwdTQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 889}} 
+{"RestaurantID": "jLhKLKuNPMTzAMJgEY5DsQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 890}} 
+{"RestaurantID": "wVZmnDlPDdVHI01_XLfBXQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 891}} 
+{"RestaurantID": "uAggq823dP2HqFUeqpQnNw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 892}} 
+{"RestaurantID": "AJKcsxpc9IthvhdEnfqogg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 893}} 
+{"RestaurantID": "N9QzfD5sbkbnfdJk227L7g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 894}} 
+{"RestaurantID": "XGn1UkkUAGkwRHnegq6Xig", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 895}} 
+{"RestaurantID": "1oBUB-3_kCYDsggJqWq_GA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 896}} 
+{"RestaurantID": "vdu9-vHCpcZ4wZWzQ0xtGA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 897}} 
+{"RestaurantID": "R070R6r0WdmdREd3DT0Omg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 898}} 
+{"RestaurantID": "entLjafiBAYOvbJYHRvyrw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 899}} 
+{"RestaurantID": "PRQyJoum--REZ-yeEidyBg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 900}} 
+{"RestaurantID": "VQ5YGa4L4AT3ugF61hM9qQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 901}} 
+{"RestaurantID": "KUW8hx5kinOT_XJj3ttCDQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 902}} 
+{"RestaurantID": "8SA_ZTKNo6TdD65u8ppRGQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 903}} 
+{"RestaurantID": "P8-7w1GFnZMV5hCvgXwkHg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 904}} 
+{"RestaurantID": "jB1V38PMXtWbOzg4j0deFQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 905}} 
+{"RestaurantID": "PRd1P_8glLwB5cNO-hFEcw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 906}} 
+{"RestaurantID": "TKfUaqizEuC1Qacr3MgmdA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 907}} 
+{"RestaurantID": "khEsiq_isObizKE_RuP3Sw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 908}} 
+{"RestaurantID": "lnI9toC-uAhBIbtHDMxvcA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 909}} 
+{"RestaurantID": "ApjmgPwYXgrb0JurjQZO4w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 910}} 
+{"RestaurantID": "Kkz2heNcQYz6dBKJcnBuaw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 911}} 
+{"RestaurantID": "SW1yjGhC9kuePjUSesJmnQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 912}} 
+{"RestaurantID": "NdfAypZmyfJk-nJIPaSx_g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 913}} 
+{"RestaurantID": "OXTcpNk9ZXuOxPnjpcSs7w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 914}} 
+{"RestaurantID": "DGrFKsyAOotGDJw-JyXsTw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 915}} 
+{"RestaurantID": "iheFO5N-JE-hXCWO4USvPg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 916}} 
+{"RestaurantID": "n61FbfvTddHBXF5WKWjF4g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 917}} 
+{"RestaurantID": "YIYetgfNE34G8JhQu98XQw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 918}} 
+{"RestaurantID": "IBMaz2RZPkU1Ng9b8A6ywg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 919}} 
+{"RestaurantID": "J2ks4DGmJ286xUI8WzlYeg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 920}} 
+{"RestaurantID": "YGfpddz2ml_2h75wbzkh2A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 921}} 
+{"RestaurantID": "2eR8ftw-GiTEwg3Y7Rm-MA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 922}} 
+{"RestaurantID": "_iLjlrftSGKvFyG6PXQyAg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 923}} 
+{"RestaurantID": "mLN0bQ_A8gpdf6r85vQLuw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 924}} 
+{"RestaurantID": "3uJAt1EHG0x9pz_c91AHuQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 925}} 
+{"RestaurantID": "_VWpp7qBwJTAEwc4U2QX8Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 926}} 
+{"RestaurantID": "5MJdYsY1iSrNuNRSNS9Cbg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 927}} 
+{"RestaurantID": "-7PgxPVUGZh__U3CxRFKxg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 928}} 
+{"RestaurantID": "tesXYams5rhVNH9edvpzUg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 929}} 
+{"RestaurantID": "ZpifrJsBsz7RUT1_Tyu9nQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 930}} 
+{"RestaurantID": "806LMXdSg8HuDiemcbnF4g", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 931}} 
+{"RestaurantID": "JAwcUcaAEeb-xuWIJHgPeA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 932}} 
+{"RestaurantID": "nhez4xxvwwYIQEN2Vrj9mQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 933}} 
+{"RestaurantID": "1Duix1fA6zcJGdYAmBPkmw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 934}} 
+{"RestaurantID": "1GNH6ZldleY8rKtWNZX_yg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 935}} 
+{"RestaurantID": "jg5nc64wLYKwKAvz_lfMuA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 936}} 
+{"RestaurantID": "v5CsUc6pr7foHWsoQ0Y36Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 937}} 
+{"RestaurantID": "zrV2yUsz1SxymeH51iRBRw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 938}} 
+{"RestaurantID": "_PdcklnobN5F81P_H2rk1A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 939}} 
+{"RestaurantID": "E_V_pCjtbvdniE8ECOMg3Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 940}} 
+{"RestaurantID": "gcwOJAeYOQsCaC9k_SRo2A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 941}} 
+{"RestaurantID": "00J0yKkOuOxMhqt-Dg9daw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 942}} 
+{"RestaurantID": "M1VHR29gMNs3EavDXdE_PA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 943}} 
+{"RestaurantID": "mlm40NxsVJUPnh3LTayaaw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 944}} 
+{"RestaurantID": "zEgjnd9lBU1ppfiL1U8_TA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 945}} 
+{"RestaurantID": "fLq5j4fkFmPD6I2tt6dSWQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 946}} 
+{"RestaurantID": "fbFPeVj-PibAPVPGq76NfQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 947}} 
+{"RestaurantID": "awvl9pC0RW8PT5A3NeLGMg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 948}} 
+{"RestaurantID": "nFqb7D7nng2FKunqlSd6XA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 949}} 
+{"RestaurantID": "Tc2uYkCroymhrtXnkVcSmg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 950}} 
+{"RestaurantID": "oEtZCrpEeQDYou3edW9hkw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 951}} 
+{"RestaurantID": "J2ks4DGmJ286xUI8WzlYeg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 952}} 
+{"RestaurantID": "Dh2I2jRTXE7oDCfuA9vCoQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 953}} 
+{"RestaurantID": "DMD9T2qmLopzy0JjQYtCag", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 954}} 
+{"RestaurantID": "reIlBT2vdVkjqztXP73Vug", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 955}} 
+{"RestaurantID": "oh6u1GJ3jFJqQDX1oxIJAg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 956}} 
+{"RestaurantID": "mEi57As_Gwyt1F73V2x__A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 957}} 
+{"RestaurantID": "ut9ZIbHxcGc9DT6h213XxQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 958}} 
+{"RestaurantID": "mhfjsCmwppbb7huUSWLSxw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 959}} 
+{"RestaurantID": "cQRQXI3-B5eGFCi_aj1IyQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 960}} 
+{"RestaurantID": "cXDdNolqmPviuRWpdOs9kQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 961}} 
+{"RestaurantID": "IYVeY3q78hefg6o3IHbFSw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 962}} 
+{"RestaurantID": "-3A-kTdW-P32hoOMQeBl-A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 963}} 
+{"RestaurantID": "6Jjz97KPJ0jtmmIBCjReEw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 964}} 
+{"RestaurantID": "VaDTMmv1Yq7A4xBhd1Mb_Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 965}} 
+{"RestaurantID": "QDApjjZAPxFvvbll86NMTA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 966}} 
+{"RestaurantID": "wFjW3d0PDr2Lb_54RmnB6Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 967}} 
+{"RestaurantID": "6qYic55Ho8xEL_iWxlrGSg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 968}} 
+{"RestaurantID": "tW-m7SgUtmMffH8YtqwpeQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 969}} 
+{"RestaurantID": "1E7lCNaRAM1Da0vkt5rcvw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 970}} 
+{"RestaurantID": "vFmBN7U25QAIpTjK_EFmfA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 971}} 
+{"RestaurantID": "RFgVkZHcWKD19vHFESuVLw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 972}} 
+{"RestaurantID": "00J0yKkOuOxMhqt-Dg9daw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 973}} 
+{"RestaurantID": "5Af-b4fp6Pq8jpTYRPpNIQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 974}} 
+{"RestaurantID": "MwmXUth8tZBJ0cqg_ouzog", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 975}} 
+{"RestaurantID": "lnI9toC-uAhBIbtHDMxvcA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 976}} 
+{"RestaurantID": "k8vE6g59i4JrAmXd6K1g5w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 977}} 
+{"RestaurantID": "SW1yjGhC9kuePjUSesJmnQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 978}} 
+{"RestaurantID": "_6nI_J5Kzj12oHMfjR3A4A", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 979}} 
+{"RestaurantID": "u1aeWjvebECChpm5IbUUkA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 980}} 
+{"RestaurantID": "LktxVJKPev11aC5SeqlLTA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 981}} 
+{"RestaurantID": "2VQDEQuK3xLFNktPBIpmuQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 982}} 
+{"RestaurantID": "zPK48x2wvTmJTQ_13bbeRQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 983}} 
+{"RestaurantID": "6qK0MyhsXYLgMSPWZdleGA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 984}} 
+{"RestaurantID": "OXTcpNk9ZXuOxPnjpcSs7w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 985}} 
+{"RestaurantID": "E_V_pCjtbvdniE8ECOMg3Q", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 986}} 
+{"RestaurantID": "KUW8hx5kinOT_XJj3ttCDQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 987}} 
+{"RestaurantID": "tfMPbnQqJ1P1RIab-o6gtg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 988}} 
+{"RestaurantID": "6whhXAV-C9L9oM9yAV6cbg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 989}} 
+{"RestaurantID": "C3cKsJ1SoYYCkM0D0K2DpA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 990}} 
+{"RestaurantID": "oEtZCrpEeQDYou3edW9hkw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 991}} 
+{"RestaurantID": "s3I5FZ-4Awiyph58ijD8Xg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 992}} 
+{"RestaurantID": "ZpifrJsBsz7RUT1_Tyu9nQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 993}} 
+{"RestaurantID": "VrUqSxFaaFcN7T01pCCMwQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 994}} 
+{"RestaurantID": "sR79scq9kaMd7npNn3D7xg", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 995}} 
+{"RestaurantID": "0ng8qzjd2ExoXJ4CuDwyWw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 996}} 
+{"RestaurantID": "_usWsAYSKKV2q8xw-3ajrA", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 997}} 
+{"RestaurantID": "7DbDmJhQtE2yZvVzaan57w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 998}} 
+{"RestaurantID": "hH0b746a_ZnkSm6049GBrQ", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 999}} 
+{"RestaurantID": "7q2yOt0RsQLfwpa95Er10w", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 1000}}
+{"RestaurantID": "YIYetgfNE34G8JhQu98XQw", "Cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_id": 1001}}
+{"RestaurantID": "E9NMNWvV70HV5gB369N0EA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1002}}
+{"RestaurantID": "F89nDDlYZ7wbRe8EpLCqBw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1003}}
+{"RestaurantID": "pGByzum9iOjdnXj8VhQomA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1004}}
+{"RestaurantID": "ZD9OPTKRx-BWqXgfqwCy7w", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1005}}
+{"RestaurantID": "H87m0azdhuw5uo6Y166uUg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1006}}
+{"RestaurantID": "7xV4gzrgaOgQYtPC3FBZig", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1007}}
+{"RestaurantID": "oY-tooKEm8F-6Il1JOQzKg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1008}}
+{"RestaurantID": "4KzqwQus39gXgrwrDXAjWA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1009}}
+{"RestaurantID": "niODyKeyStKEut1b6FNlhQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1010}}
+{"RestaurantID": "mhhTORjUdXj-UIDjyGmhBg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1011}}
+{"RestaurantID": "blXVGUTB-4epYW9KFsQJ_g", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1012}}
+{"RestaurantID": "apykLG7DTZ-7xnOcZGDZZA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1013}}
+{"RestaurantID": "7ZecxKox2SiVtsNDWphJZQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1014}}
+{"RestaurantID": "GeoR6dpTUEpdIoyAd68Irg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1015}}
+{"RestaurantID": "dtcV8BLJ-0yVdYi0rwlLog", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1016}}
+{"RestaurantID": "YNROFa4J25EujA2g6hl9mw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1017}}
+{"RestaurantID": "u2Uw0v1Rqepv0X6nOyICxA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1018}}
+{"RestaurantID": "m8Ytb_3eYIiWla68Lk2fFA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1019}}
+{"RestaurantID": "lxHKbp0hReRBPZcq4fUUow", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1020}}
+{"RestaurantID": "Bn1mZhb501Tvf7_-Pfi9_g", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1021}}
+{"RestaurantID": "RgEtvACRayQhRPnEs_kkIw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1022}}
+{"RestaurantID": "wPx4aNffBizdYmCG-WLKpQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1023}}
+{"RestaurantID": "Nzalb1MxWXe0LC41POy4Qw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1024}}
+{"RestaurantID": "gG0pitVnSaUMGbEL3boF0g", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1025}}
+{"RestaurantID": "Tp3MF3DNXuW41A10PQ2nFw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1026}}
+{"RestaurantID": "wtfEOjfOWVuugf-SuCC5yA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1027}}
+{"RestaurantID": "O9LKN5kk17lQWb7mMuiBzw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1028}}
+{"RestaurantID": "xTWpl9DgIkkr5B8h8_xUpA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1029}}
+{"RestaurantID": "tV6Tgw6FS45BRHyQ207jag", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1030}}
+{"RestaurantID": "8BNkZCUfF8h1iCpjk87y5g", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1031}}
+{"RestaurantID": "JEQ00qBAepe0oSiUBdfIew", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1032}}
+{"RestaurantID": "Cw7AFqulngjtirLYgVJTTQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1033}}
+{"RestaurantID": "mQX9JxLMlhVxaUMP9ADUHw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1034}}
+{"RestaurantID": "SClbV7TPTjJo6WYZBpErRg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1035}}
+{"RestaurantID": "CD_nOkyA6TtL9HgNHr08cQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1036}}
+{"RestaurantID": "62dhOUChlqsVkszPxqwq9Q", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1037}}
+{"RestaurantID": "ApbLKC5c3xoYn5XOJ85Y3g", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1038}}
+{"RestaurantID": "tM8ZtEix8Bxg82AIKsHXcw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1039}}
+{"RestaurantID": "sI4N411hfsslUJnTkEfqWw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1040}}
+{"RestaurantID": "TAANt0fPbfHqVP5LyMBioA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1041}}
+{"RestaurantID": "_4Grm99JEHnDWskCHAJfUg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1042}}
+{"RestaurantID": "S9QZOR4UwfvYPPcHWfmNTw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1043}}
+{"RestaurantID": "1p4dUaLyzIhN5n1lJnHSgA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1044}}
+{"RestaurantID": "2HZ4UGqSzbb91nWui7VYLg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1045}}
+{"RestaurantID": "CvG5Y99Auw8KWryzV1e1PA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1046}}
+{"RestaurantID": "v0LGazMDlyPX5ceLYpZyTg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1047}}
+{"RestaurantID": "BC9DVugTCxNGzLr4ZhGINw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1048}}
+{"RestaurantID": "owYYuyLvlsdjLz68c3SSfg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1049}}
+{"RestaurantID": "kzd10IXi3dTjoPw0TDj8tA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1050}}
+{"RestaurantID": "Ey29dYV1gAtalkwPH8k1vg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1051}}
+{"RestaurantID": "6gDUVNZo0E9lxO2DkAhHOQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1052}}
+{"RestaurantID": "Ti-957LNURM0Gy2CXIbQOw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1053}}
+{"RestaurantID": "ttn8OS7X986fYIuEEXG09g", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1054}}
+{"RestaurantID": "dy_xfi_3asaGjcVpndh1SA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1055}}
+{"RestaurantID": "kgJwblaytYITxd9KhtqzKA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1056}}
+{"RestaurantID": "cxvndpb_DjtZaeBj6Ed81A", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1057}}
+{"RestaurantID": "x7Q721PDf7s1iYYP7diaVw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1058}}
+{"RestaurantID": "ZXiT7FuFAkmjg4pXYxb06A", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1059}}
+{"RestaurantID": "XDL8GWy3uCB8bdpMiRLRJw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1060}}
+{"RestaurantID": "N2nwanXq9dDvKLIy7Ovb7g", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1061}}
+{"RestaurantID": "jCRblp7F5IbUSySK_Y7Qiw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1062}}
+{"RestaurantID": "PHSsvGDW6Rh2pGWEDTrDew", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1063}}
+{"RestaurantID": "nHLchRWrxxv5MWD8IHpYzg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1064}}
+{"RestaurantID": "BEYmqrP1_TC0nhnTGKkkJg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1065}}
+{"RestaurantID": "mVsCn9tm3B-XeUeqRYBbxA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1066}}
+{"RestaurantID": "6CSyG4P-5vicgPIzfXHK7Q", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1067}}
+{"RestaurantID": "5mJgmAgKpTbCDdpVs7OFxQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1068}}
+{"RestaurantID": "6eVNHrnp67ZniJYLik1qig", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1069}}
+{"RestaurantID": "KQ3b0rxCBnwKF0AHWjcJpg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1070}}
+{"RestaurantID": "kKSZT7BJ5VH6hCaGlJ52tg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1071}}
+{"RestaurantID": "-r9RZMvgH7GPDOOek89Jzw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1072}}
+{"RestaurantID": "7gZGVdqMch7ls0IGO3DijQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1073}}
+{"RestaurantID": "B55Ocx5RBWxo6AGSucYSIA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1074}}
+{"RestaurantID": "mdhwe9pw_OD9DGPLZUmzKQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1075}}
+{"RestaurantID": "GktRnSCBAsboHj9Hh-U66g", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1076}}
+{"RestaurantID": "Ey45ZiAN1TSVmvfM6DVZqA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1077}}
+{"RestaurantID": "enT7NJ7tLMvUMCWQcsUonw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1078}}
+{"RestaurantID": "228DO__YwYmliMx6Q5jTtw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1079}}
+{"RestaurantID": "nksLmvyhPeMDeaA2BPaC4A", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1080}}
+{"RestaurantID": "goKn7tKTIqpNPM_jR2yRCg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1081}}
+{"RestaurantID": "K0UNoqk1PczdaiZfoMRbEA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1082}}
+{"RestaurantID": "2LcsDUTlvovnFz-SEcSJTQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1083}}
+{"RestaurantID": "1_vyc6Z4a78TFMbaCjWqDQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1084}}
+{"RestaurantID": "Hk0b84P_jbufMAzkNyIJoQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1085}}
+{"RestaurantID": "_EUAkkC5oKm4sClY4hlbig", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1086}}
+{"RestaurantID": "hU1ajPmHi-kU6iNbowoEZg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1087}}
+{"RestaurantID": "hKDCY-ZXcfPy4Vp8BfWnhw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1088}}
+{"RestaurantID": "0FaLilJs2VN83hOEBcBnPg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1089}}
+{"RestaurantID": "NMVRHrkdp68twl4CWo1I5A", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1090}}
+{"RestaurantID": "r2tM5A3YU8m1prp-ji5KAQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1091}}
+{"RestaurantID": "XXHR59YE3PsMJKhaSGF82g", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1092}}
+{"RestaurantID": "ExvoimQ4LzY3UWtZ6m6Lgw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1093}}
+{"RestaurantID": "6KcS6hc2j4kJi2XTGxC1eg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1094}}
+{"RestaurantID": "Jqnm2_8Rt70YYQBhhFLwGQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1095}}
+{"RestaurantID": "iQpkfCech11N5I6e9ur8Cg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1096}}
+{"RestaurantID": "_AU96YHJM_CgFfw_QzpvAQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1097}}
+{"RestaurantID": "DEp-9JVnKN7eTb9A_mUlfA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1098}}
+{"RestaurantID": "RqCMsa0IuHWhML0BEjW8_w", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1099}}
+{"RestaurantID": "MctQwL9Mp5X7DJk13VoERg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1100}}
+{"RestaurantID": "51YLgpfHKfXxOkDFe9sT-w", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1101}}
+{"RestaurantID": "StF9WWWbrRzEOmNAcEINcA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1102}}
+{"RestaurantID": "U1Nl5TrVtHfWTZs5MeuMKw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1103}}
+{"RestaurantID": "1SaKutXcH38X0KvayyDHUA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1104}}
+{"RestaurantID": "l4zRIDWk6hmOcP_jNJj84A", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1105}}
+{"RestaurantID": "VGTrGSH38A4n-v5nFe4skA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1106}}
+{"RestaurantID": "mw-2zyzteB8CAnkWzNZqXw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1107}}
+{"RestaurantID": "ncDNh2mFnRdX9AKnQQ-2nQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1108}}
+{"RestaurantID": "ZBLttLnl7z-b_NRuzyRvww", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1109}}
+{"RestaurantID": "j_PlQwhtu_JpvINgFKepIg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1110}}
+{"RestaurantID": "Ri67Ia7k0bBmgTCLvlbRBQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1111}}
+{"RestaurantID": "_JIidp30qxD3bfpP3DSMTA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1112}}
+{"RestaurantID": "oOiaIo6fvUW_SMqGs3dgew", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1113}}
+{"RestaurantID": "v1isGI0Se7f0te07TBTAYQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1114}}
+{"RestaurantID": "MxE0X8ayNGii9zA2i2ZERA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1115}}
+{"RestaurantID": "dT4fl34s1MQaLQARc5BSFw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1116}}
+{"RestaurantID": "EE2G_gi5fJ2F6sz0Lkd09w", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1117}}
+{"RestaurantID": "yo_WAOnE2pPHCQduq_V_ZA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1118}}
+{"RestaurantID": "s5N-w7EPY3DA68id5qycyA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1119}}
+{"RestaurantID": "IA3EQ0Ilx0yI7dNYnq-YGQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1120}}
+{"RestaurantID": "wzbta6vcz3YNLZDhgrzy1w", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1121}}
+{"RestaurantID": "Xcxare_6mb-PKSWYfIK6rg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1122}}
+{"RestaurantID": "mb8b2PdYGe2Nf2tsZpzIiA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1123}}
+{"RestaurantID": "jAaVnUKLITkuhzwXIe0vLQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1124}}
+{"RestaurantID": "tFmwt_NWIRtjdWs5xKfwew", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1125}}
+{"RestaurantID": "d8zSYpArh4oXpxeJWNA4Pg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1126}}
+{"RestaurantID": "PT_yFcJdOmNQcPzLMqG3pA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1127}}
+{"RestaurantID": "vx2JV9juVzSBRGWHOZCTAQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1128}}
+{"RestaurantID": "_l__uXH-xeqJVZbLiISGlQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1129}}
+{"RestaurantID": "kGgOb9nxnFfDvPdZ1Aq7cA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1130}}
+{"RestaurantID": "i38R1KxL99JoG-Ns7FyyGw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1131}}
+{"RestaurantID": "seCOrCJVVhmnjhRAWjVeKA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1132}}
+{"RestaurantID": "5kh2c7cj3RrnoiSq479Jvg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1133}}
+{"RestaurantID": "vCZsmM_R_m9iakLpyifwLA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1134}}
+{"RestaurantID": "CKDJ5EnccjRvvVF3csTn6Q", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1135}}
+{"RestaurantID": "O8XXOQ1crVOjGsz1ARKCFA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1136}}
+{"RestaurantID": "7NN76mp_iwmJd1_FEqpM_w", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1137}}
+{"RestaurantID": "SysAthrDghPL62a6OElOCQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1138}}
+{"RestaurantID": "nu4IkeHHUQHeD4jTajbk4Q", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1139}}
+{"RestaurantID": "3kjqyRt4J-zPge-I9KOliA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1140}}
+{"RestaurantID": "Me4TxTbPPQZQopW1wOGx5g", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1141}}
+{"RestaurantID": "3uJ-wOpTZHd4dsIjMbmYgQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1142}}
+{"RestaurantID": "pjzIGnDkwmG-k2XmH65RQQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1143}}
+{"RestaurantID": "h77VtGL7BCXvAALx-ZFbVA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1144}}
+{"RestaurantID": "yXK9VSId2tqYNmk-31jAEQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1145}}
+{"RestaurantID": "HrdIdeDZBTUdyEdSTPG1zg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1146}}
+{"RestaurantID": "SFqvhzfPs1FN3RqVwaKYaQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1147}}
+{"RestaurantID": "Vw8NSOu7aS8de1vVhFpemQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1148}}
+{"RestaurantID": "eDNSaUzzYbhEXFnN6Jnc4w", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1149}}
+{"RestaurantID": "JtPYjqn5piFshA6PzXFSmg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1150}}
+{"RestaurantID": "8ZedF0hYAvys8tb7ZtHGtQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1151}}
+{"RestaurantID": "iE6kR5wsCbldJHKZ5kGLcw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1152}}
+{"RestaurantID": "hDgpiXE5_d4Is1sJ5kUBQg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1153}}
+{"RestaurantID": "ciMe24uelCYS2qH3ldeSyQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1154}}
+{"RestaurantID": "JT-0_-OqmBLYzEvRhU-__w", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1155}}
+{"RestaurantID": "PiDidGDx15RYgiQFKeFZSg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1156}}
+{"RestaurantID": "hI9rkUO2a6bZigyXVoVbgQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1157}}
+{"RestaurantID": "FON3TceJNsTC0I0mzBwOKg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1158}}
+{"RestaurantID": "KpBfFpjzsGvvqAzCasVW0g", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1159}}
+{"RestaurantID": "lUpyqsKw-IBqsMgYIHZj7Q", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1160}}
+{"RestaurantID": "JIWCAWQnRVevwhbyADcLgg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1161}}
+{"RestaurantID": "l9b8NbDyhKhnjLKtUwlPwQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1162}}
+{"RestaurantID": "Q2dKbHvXwmJuoaf1Yahfxw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1163}}
+{"RestaurantID": "uwx3yy7Wu5u55EiXRv03aQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1164}}
+{"RestaurantID": "I3LS4dWM4t8xThN0lbYCIg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1165}}
+{"RestaurantID": "lP4ynyBoeFPywLg78XkMmw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1166}}
+{"RestaurantID": "8pHKqPb1VjaYVk8JaGyNxg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1167}}
+{"RestaurantID": "IxFTW7805MrWpbV4RbSFhw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1168}}
+{"RestaurantID": "YDHUVTkQ5ioHaPOMVwQjWQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1169}}
+{"RestaurantID": "TxHx1fb8O_MsfQB_ODdTQg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1170}}
+{"RestaurantID": "5hyFH-JfrlBhgPDmvelkIA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1171}}
+{"RestaurantID": "1hdwhb6kzLxL3Lt3PxoHKA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1172}}
+{"RestaurantID": "n7LwEbf0zsMapAcUtyyeVA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1173}}
+{"RestaurantID": "kTQ0rRfgtlPwX9_O8OY_UA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1174}}
+{"RestaurantID": "-D6LvH79fHSPK2menTihZw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1175}}
+{"RestaurantID": "Rj2ACaJcbroJLPDhRhzvBw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1176}}
+{"RestaurantID": "oqVG2LsTwvRzgJxId5pqiw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1177}}
+{"RestaurantID": "wA_KKu3X36JcaUPgFjyIHg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1178}}
+{"RestaurantID": "tKog0Ewz1roBME_kX1G6hg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1179}}
+{"RestaurantID": "9CMlqg0iZgYMlyUN9iroeg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1180}}
+{"RestaurantID": "0moBSyrTezcT3uePV74nug", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1181}}
+{"RestaurantID": "oymQHibAdzbA-ITcoxrDbw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1182}}
+{"RestaurantID": "qKEkkVCbTLpmsIZXTjZStA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1183}}
+{"RestaurantID": "0c6Xt-P2x40DbMW7tMVDgw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1184}}
+{"RestaurantID": "zieQ0Yvh8f50-rjh4jWyKg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1185}}
+{"RestaurantID": "KfpNzpE0MiMUoVSN6FFdpw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1186}}
+{"RestaurantID": "hvTEs7NL7VvSyhd4Mmpbfw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1187}}
+{"RestaurantID": "ugYhnKrr3Q1TVV15R0EEWQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1188}}
+{"RestaurantID": "IavC9CRFtosOC7UN5ndXpg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1189}}
+{"RestaurantID": "Lv-AInevkl29-9TOvvYLSA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1190}}
+{"RestaurantID": "m6LF4_uSdR4snHgASMMcBA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1191}}
+{"RestaurantID": "mMuAsPSy2T56j0ENSTPL9w", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1192}}
+{"RestaurantID": "7CM15wd5d8WC_pHR674YXA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1193}}
+{"RestaurantID": "XEugUtbw4rRmGr9S1XA-aQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1194}}
+{"RestaurantID": "lzUkaMCuxYWR1cL_q3ElsQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1195}}
+{"RestaurantID": "uNuuJAK0VR1Rs2BKTcgTJg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1196}}
+{"RestaurantID": "PSDZlIqct5Bc_azE-tio9A", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1197}}
+{"RestaurantID": "cuUmPDEY-1KXzShGdpsqag", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1198}}
+{"RestaurantID": "4fNKBr3mlxKHfCojW0i_Uw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1199}}
+{"RestaurantID": "sri-S6YRQ32XsvdO-EB3IA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1200}}
+{"RestaurantID": "rZxnzjyGdvifVbfSKHGh1w", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1201}}
+{"RestaurantID": "M8xnlKQOh0tl58LJCnPUVA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1202}}
+{"RestaurantID": "_HDL2GbVd6OsbBYDUWx8Zg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1203}}
+{"RestaurantID": "356XKWDc9lVUCBuEZ2HHiQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1204}}
+{"RestaurantID": "6emR8SU0UlcKI2o-0yO7Wg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1205}}
+{"RestaurantID": "B3vbVvQOofXU6lFkrN1_2A", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1206}}
+{"RestaurantID": "7KN1q3ssjWoEnT_ggW09IA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1207}}
+{"RestaurantID": "-QIPdiq5ILg_EJqdVoCqEA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1208}}
+{"RestaurantID": "cG9aOGzPioO4zl6jxuhMLg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1209}}
+{"RestaurantID": "6KzJ3JEOQ4QrVbrrRtBxQw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1210}}
+{"RestaurantID": "HyQs1XjmI_x20R_rEEcFqA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1211}}
+{"RestaurantID": "-fcbr1p0Uijjg3WpDDn5VA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1212}}
+{"RestaurantID": "W4hobe10Fy54MKqmLaObEg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1213}}
+{"RestaurantID": "4lvM8_IWe_TgSszfwhmrdg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1214}}
+{"RestaurantID": "flBpil_5irQ4CKO4FAY6gA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1215}}
+{"RestaurantID": "D4f6htB176SAxS1q0rZX3A", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1216}}
+{"RestaurantID": "3idAtiEXe_XfTcPoZC_DcQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1217}}
+{"RestaurantID": "Ptd1vzkvdeZUws9zuLR4FA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1218}}
+{"RestaurantID": "j0n_poMVZnODYOFviLbh0Q", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1219}}
+{"RestaurantID": "fJhzNx7t2QybrYudxULGoA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1220}}
+{"RestaurantID": "OegAZK1p9HPL9i7BRSMywQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1221}}
+{"RestaurantID": "WojnO4OcLHo8EBIRgJrGsQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1222}}
+{"RestaurantID": "-jBC0Pc8a57x3_YdQfMtEg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1223}}
+{"RestaurantID": "HCW5HDT6YZU25rkJes9r6g", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1224}}
+{"RestaurantID": "lnTPfdaqDqWjywWewsE2Lw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1225}}
+{"RestaurantID": "et5zJqXua93IeR-VLsoSQg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1226}}
+{"RestaurantID": "yR0tHq3nDpx8GEJC2VjJYQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1227}}
+{"RestaurantID": "WUu7ZxH0y5Fp1G1hLrFxRQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1228}}
+{"RestaurantID": "ShZamNKgSkv8XKDnjE0kPw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1229}}
+{"RestaurantID": "_-EQR2vNYg-b1eZwAgp6JQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1230}}
+{"RestaurantID": "p5PlsI9rZK5vkQo3njhuGQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1231}}
+{"RestaurantID": "_IXwnlEd4DsiXuruRiRl9Q", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1232}}
+{"RestaurantID": "ymYhC5m27bUDe16ynByq7g", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1233}}
+{"RestaurantID": "Bt6RoIcazXayp1a8lMSvzA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1234}}
+{"RestaurantID": "s_YuHngBngWwzpcKNIM71A", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1235}}
+{"RestaurantID": "VSPkVw9gSQx-5v4A6aC_YA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1236}}
+{"RestaurantID": "4aF0F8w7yXX9o5_QFky_ig", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1237}}
+{"RestaurantID": "B6eNhdBB0n5auXkRdpWr3Q", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1238}}
+{"RestaurantID": "gjIctg7P18f6UocGVW2IMQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1239}}
+{"RestaurantID": "IFZ3_d01uflGixWrrD8_gg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1240}}
+{"RestaurantID": "pAqrkEtry8PFVl-_PIksnw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1241}}
+{"RestaurantID": "ggm-5YHqX5pXgk5Uh42dEA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1242}}
+{"RestaurantID": "arE6K4GreTjN3SJ3a4BfAA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1243}}
+{"RestaurantID": "r4gt4Mb76WKJwx1xgrfTtQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1244}}
+{"RestaurantID": "QzjF7OVV-WiJH1dILFrzgg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1245}}
+{"RestaurantID": "rbb3TpbtzrBbzRxKOTxzEg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1246}}
+{"RestaurantID": "q45SMZfNrF4XZZWzIC4tGw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1247}}
+{"RestaurantID": "6ii5cphr65vt6zrP9N5RVg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1248}}
+{"RestaurantID": "CO90_8nlxQx10ATsM3b9AQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1249}}
+{"RestaurantID": "9VLCikK2J1lqgnb9MOI-GQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1250}}
+{"RestaurantID": "-593H2__eJeiSBT4pU7Wfw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1251}}
+{"RestaurantID": "MDjmE0hwZe0qLFaesCrnKQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1252}}
+{"RestaurantID": "_zXr6X_LO_WFurTxlC1kBA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1253}}
+{"RestaurantID": "bNn8eQFyfVecKPczLxXa8w", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1254}}
+{"RestaurantID": "TPSY6gS0-cncBwlPOUYs1Q", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1255}}
+{"RestaurantID": "ZQMg4nEqnEKzGoPUszkL1w", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1256}}
+{"RestaurantID": "CGlVVVjJ0d8eKCAefOTS9w", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1257}}
+{"RestaurantID": "RirFOsDfTvEfYOO4PPVJzQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1258}}
+{"RestaurantID": "GyFsnBMadm3DzOyWTHr7yw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1259}}
+{"RestaurantID": "fVJUSwTsWqFnarBHCy5Ydw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1260}}
+{"RestaurantID": "Qw3v8TwKBxpuZ9I27itPvg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1261}}
+{"RestaurantID": "Qx01ny6b5PIBJlvI5mhjCA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1262}}
+{"RestaurantID": "MdFV5IBcX-Ni6I4Zy1EqIw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1263}}
+{"RestaurantID": "_-LcAMoys6QGxJkupcG90g", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1264}}
+{"RestaurantID": "awxuFWRMamhQGenCwg7cSQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1265}}
+{"RestaurantID": "lzS4xZdl9Yk1ULtbzi9ejQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1266}}
+{"RestaurantID": "hwVF4fJK9Y73iHaN-vjSUw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1267}}
+{"RestaurantID": "_WcjDeOZlFmx_2Quh49j2g", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1268}}
+{"RestaurantID": "TBX6fnKz0lSdMjR598r75w", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1269}}
+{"RestaurantID": "aTFkjo0scqmOgsFF5kuGXg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1270}}
+{"RestaurantID": "4XdK-yBAnj4wLgftIU0GmA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1271}}
+{"RestaurantID": "20PuwdAiKJmyMBnYGTtHGg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1272}}
+{"RestaurantID": "bkYcT19Fyb95H_qjnVcIQw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1273}}
+{"RestaurantID": "loSweBJLwWJsIYf3H2_LVg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1274}}
+{"RestaurantID": "dzI6MzwKbrhJN5dEeUbX0w", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1275}}
+{"RestaurantID": "BsdB6DhfvSq7ZZs-_u0RpA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1276}}
+{"RestaurantID": "TS2mqGtNhOzMKcSqJvrBPg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1277}}
+{"RestaurantID": "p-PJcI8SYIi_mowY5svQOA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1278}}
+{"RestaurantID": "rUeQJeEYN4RrJnj4XUv8ZQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1279}}
+{"RestaurantID": "nw85LVh6H3JIiw3ugvhAmw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1280}}
+{"RestaurantID": "wctR1TrheHAwpHZ2sJknEw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1281}}
+{"RestaurantID": "E1DbVbb3tLEerbocDC5kRQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1282}}
+{"RestaurantID": "6Fi9EBxatFA6SsrK-QajLw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1283}}
+{"RestaurantID": "h_X1VLP4eVHmaQW6yAAbBg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1284}}
+{"RestaurantID": "bDx0oXgxO0Cy8uH_NbsE9w", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1285}}
+{"RestaurantID": "Pcpcv2T9OJiYXAeFr-026w", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1286}}
+{"RestaurantID": "MQ2nzpS4FHTw_PlCcRfUpw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1287}}
+{"RestaurantID": "AfiSqDmx7Q3qLLgAvhHSRQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1288}}
+{"RestaurantID": "8TfhQaCxux6Eq8SK8iqyoQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1289}}
+{"RestaurantID": "vNPFbYK3KeplZHr_0rRfSw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1290}}
+{"RestaurantID": "b8z8IeXsw7DS_SrNHMpFeA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1291}}
+{"RestaurantID": "FakrQWMNdYoBIp18Tpvn0Q", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1292}}
+{"RestaurantID": "ShQz0wFmdLkFcqI_sb6oBA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1293}}
+{"RestaurantID": "g6R8iwi__IDy8plQy0v9WQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1294}}
+{"RestaurantID": "Vpldj9c3EDzCl0Z5ANfkhg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1295}}
+{"RestaurantID": "6G0urbBDz_CnYnGXApgUcw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1296}}
+{"RestaurantID": "J4qehrNgX-8fi9-TTiVuBA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1297}}
+{"RestaurantID": "Nxpx7DhlL8pt07DtGZV50w", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1298}}
+{"RestaurantID": "nYZorUGAc8Df3H6l8iqXcA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1299}}
+{"RestaurantID": "fcZslhOdQJgRdi04UMf0PA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1300}}
+{"RestaurantID": "XD42_G0yu0ntWib6IGlzpQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1301}}
+{"RestaurantID": "t6klR5QA2oAWhKFZulBnkQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1302}}
+{"RestaurantID": "i8Tiw2291FA1075lQouA-g", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1303}}
+{"RestaurantID": "47J3jLkclOMXExoPoIpnag", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1304}}
+{"RestaurantID": "diW0VnV5sZQQpTamlVXjGg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1305}}
+{"RestaurantID": "8Cv7q5bIKJG06Gw6Y2WYDw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1306}}
+{"RestaurantID": "9hq17llLGdNCAsLWJk0NVA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1307}}
+{"RestaurantID": "uM4b20XZGXxS1fliQpH9MQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1308}}
+{"RestaurantID": "My17Ud2T_tXy_9ND9aezpQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1309}}
+{"RestaurantID": "JhB5b1Z7wR1hfGCw3iUMRw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1310}}
+{"RestaurantID": "Z92QsSSDsoNPs8fGgh5Qvg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1311}}
+{"RestaurantID": "xEnNFXtMLDF5kZDxfaCJgA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1312}}
+{"RestaurantID": "aGzGqDMdR8NbWSzE0Oqm_w", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1313}}
+{"RestaurantID": "W2CqfHWZoOiRuW2jt1J-xQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1314}}
+{"RestaurantID": "OqaVCimTW9tkhSII7lYUsQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1315}}
+{"RestaurantID": "TMKUWtlTdXRyDBWgi0hl3w", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1316}}
+{"RestaurantID": "ZJtg5RVPRQUUvdDboWX94g", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1317}}
+{"RestaurantID": "I9QmbM5vmYSA_dYM4eHeUg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1318}}
+{"RestaurantID": "VwXHwFedp41olqrKNYKCWQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1319}}
+{"RestaurantID": "eW7kDF_1PT0CBbKA0sjLfA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1320}}
+{"RestaurantID": "up9NvpouAUhj_L0yBoxtng", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1321}}
+{"RestaurantID": "1ZstLMeTotRyA8xo8Xa77w", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1322}}
+{"RestaurantID": "hNR713rfrHjF-V-fG2XUPw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1323}}
+{"RestaurantID": "sLOJyqneyyieDXFHYeFp0w", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1324}}
+{"RestaurantID": "TJhgvNJuAzmyYzaMyMnN0Q", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1325}}
+{"RestaurantID": "BDBT0f8uV6M3dq1zWOau8Q", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1326}}
+{"RestaurantID": "EzN4ldA7lnRrni0Fl9CoTg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1327}}
+{"RestaurantID": "G4NUm5zm5pWDhd7eORU8xQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1328}}
+{"RestaurantID": "WIe7Qi3uOoMKU2ZbHfTGew", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1329}}
+{"RestaurantID": "nGpC40fxoDQ-Ft0h-_gkVg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1330}}
+{"RestaurantID": "jTvExXa9M8QqS_Wn_4KB5g", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1331}}
+{"RestaurantID": "814B8dwtfQ_Vgw1tjL-N6w", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1332}}
+{"RestaurantID": "Gi8HGtzVrxTg02IBXpSClw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1333}}
+{"RestaurantID": "aa54g24PY2GS0G2kSyrU2Q", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1334}}
+{"RestaurantID": "gLyCmWWmqvg2SUG4DBgtWA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1335}}
+{"RestaurantID": "lMyJ9lrwRddpsOR_WeMSww", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1336}}
+{"RestaurantID": "JdXqygDw4yXQcy5lw9VI4A", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1337}}
+{"RestaurantID": "EaBfDaigEFng3HRKlfH88A", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1338}}
+{"RestaurantID": "mOUxTfRTilKZQL9DONzU1g", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1339}}
+{"RestaurantID": "JCUi2at2wlEopGzxmk4Teg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1340}}
+{"RestaurantID": "vYLO6I4-xETxJc5to07GPw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1341}}
+{"RestaurantID": "4-BWEgLCxQ47C6PG1B9B3A", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1342}}
+{"RestaurantID": "jxfNkW2RkXhUW5_DwWEbHQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1343}}
+{"RestaurantID": "bG9Tsue1s3VFOo3Cx6-wvw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1344}}
+{"RestaurantID": "jDq9PWUwrSdJ_k1tHUnKFg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1345}}
+{"RestaurantID": "sVkwEFET38Myz3dM1uZpiw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1346}}
+{"RestaurantID": "UzJ35gU93WK_YMq6DyAb5Q", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1347}}
+{"RestaurantID": "AYyzRxoSlZ-z5yYcomeUzw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1348}}
+{"RestaurantID": "FvCslLyo0SlDKI52bEDekQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1349}}
+{"RestaurantID": "PpxJsItHTF6sDAK6XnDJ9w", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1350}}
+{"RestaurantID": "sgIdJLSXnnMZy2sjm5GUeQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1351}}
+{"RestaurantID": "zXELxQsoffCoBiIZamoBsg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1352}}
+{"RestaurantID": "KkbiqhmMmOnHUtAn9f3jFg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1353}}
+{"RestaurantID": "m4CFfE1_u5rwVgb45ZqRpA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1354}}
+{"RestaurantID": "Lkz8ExozPGmYBvz-ZEtXOg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1355}}
+{"RestaurantID": "J-eceimY_psVfA_wkXMxPQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1356}}
+{"RestaurantID": "szrkleW0KeKcoKqnGa2Tew", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1357}}
+{"RestaurantID": "hXqrA_Z3jZ8Q1O6ZehWSwQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1358}}
+{"RestaurantID": "MH08_pIRKsUSwfkVYxUE7w", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1359}}
+{"RestaurantID": "hzPSNFwMVzMAkmdtLROJow", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1360}}
+{"RestaurantID": "i8UeABJuw3iK-QbGJAiJaQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1361}}
+{"RestaurantID": "KvJFXos9XBDf7605YyoLOw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1362}}
+{"RestaurantID": "oBORgWrnY4rRVyhPsYaTWw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1363}}
+{"RestaurantID": "HbRpu_sO3ouX0a9CiRTXEA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1364}}
+{"RestaurantID": "nDhhVuhDyP-QRi0lwk0j3w", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1365}}
+{"RestaurantID": "ztgJJSidCZCNfGv1OMq0sQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1366}}
+{"RestaurantID": "lwfCl81r5a0mjxDNxNGC9w", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1367}}
+{"RestaurantID": "ZfVHyRKrP7OQnaUmItRK1A", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1368}}
+{"RestaurantID": "SlyhjiYQblDi4ok5qh2czw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1369}}
+{"RestaurantID": "EX_kzzv2RNC_WwxaJ0ll9g", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1370}}
+{"RestaurantID": "Jhs11j9wkfN98uXYGHx4Zw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1371}}
+{"RestaurantID": "PZw8MFxoo2w72-uDaOxxPw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1372}}
+{"RestaurantID": "9gdokGFQBUqLDItNCCY3YA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1373}}
+{"RestaurantID": "ATQDTQu3SsCetuG-byzOFg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1374}}
+{"RestaurantID": "WEDQ3ysOS2twleC7TZlmGw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1375}}
+{"RestaurantID": "sR60I9PI_63noBQcGoIrbw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1376}}
+{"RestaurantID": "OaLbgr9ardChJ90u16Ik9g", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1377}}
+{"RestaurantID": "9cY47EM9H97KRfISJ8ay1Q", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1378}}
+{"RestaurantID": "q8phYyHb3-zBLKSrReKIww", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1379}}
+{"RestaurantID": "Xo1_Fgsczd91kRD_7To0AQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1380}}
+{"RestaurantID": "zm9ZozF9N68ni4BWhyIyjw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1381}}
+{"RestaurantID": "SVL5x7I0Fjgh4NoEQdrQmg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1382}}
+{"RestaurantID": "bpSnGiD_K9bfzp8ASca6cg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1383}}
+{"RestaurantID": "-JBFRO2z1Fr6og-3VGYRxQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1384}}
+{"RestaurantID": "Sa90xxO005xPt5Ls1f_1dA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1385}}
+{"RestaurantID": "yxDg9hNSZ9I74hXQh6TFsQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1386}}
+{"RestaurantID": "Enp_vGOKBgsitskHoD42lQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1387}}
+{"RestaurantID": "h-oRYTQZrVg2mlO7tjmEew", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1388}}
+{"RestaurantID": "CyIf24YrOuiikkYVnHjoog", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1389}}
+{"RestaurantID": "l588bbFO8CpFxdlM2YiKFg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1390}}
+{"RestaurantID": "HHUMUAKDiJqrKSf2Qaxmlw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1391}}
+{"RestaurantID": "pDJtnhToQIcG8Tctyt6AbA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1392}}
+{"RestaurantID": "SU9fIyDu0mvEMZuBw5l2ig", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1393}}
+{"RestaurantID": "kDhtG0Z93f-ADZzMUB9GaQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1394}}
+{"RestaurantID": "ar25bKrHdK6PlQPIN2vrJg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1395}}
+{"RestaurantID": "ZG953qDRSrVap2QKm2OG1g", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1396}}
+{"RestaurantID": "_DBhCb0k5CM_nEE7FO7QTg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1397}}
+{"RestaurantID": "j5IwKL9lr-dgAXgprK7-mg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1398}}
+{"RestaurantID": "0VQxdwMcWJEa-7PMtQJ2yw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1399}}
+{"RestaurantID": "Fn8EyNed5tpcAhNJN51TAQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1400}}
+{"RestaurantID": "cAEHvzQBxREhpJkFonpYaQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1401}}
+{"RestaurantID": "QOBD3cHJXON-kNtbsgWvmQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1402}}
+{"RestaurantID": "L-IuiVoFMDSw2K6OAciP1g", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1403}}
+{"RestaurantID": "Rr55bXbJcfdm4lIf-1f0Qw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1404}}
+{"RestaurantID": "yVVbc0fYXw93ulhwA4kVUg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1405}}
+{"RestaurantID": "yB4YcbSpAFE8XGJuQT-6zA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1406}}
+{"RestaurantID": "mg6pemwG9UOxAEwwMM6Tqg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1407}}
+{"RestaurantID": "Znj2D9i2Rsc_PqaJhE_kFw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1408}}
+{"RestaurantID": "lKgTNYp-oFL_hTddicAjzw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1409}}
+{"RestaurantID": "c40x0H2nNwR9JyV0z2iuow", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1410}}
+{"RestaurantID": "8t47wECGAKvODQwUOaZh1g", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1411}}
+{"RestaurantID": "KjqBMZ0bE9VV2VP3DrDZvg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1412}}
+{"RestaurantID": "Hg21xHHaEzX_5LJ_BF5RsA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1413}}
+{"RestaurantID": "KoIfOK7ir0EAYj5D3hc7gw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1414}}
+{"RestaurantID": "n_KosOPSHS81Yq0D6X3peQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1415}}
+{"RestaurantID": "WkPaDzqGSx0X7pFdIuWOww", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1416}}
+{"RestaurantID": "m0HUo-Vzs3Oxb9MqCu4V7Q", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1417}}
+{"RestaurantID": "NjDI7uiks5GO-GyeJ4L1zg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1418}}
+{"RestaurantID": "S4SzD0dzdzNO7FW8JM0dkQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1419}}
+{"RestaurantID": "TdAjlHUnsMyFsJheue8aRQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1420}}
+{"RestaurantID": "U3bhHJsw7yP4uKpL0kSGRA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1421}}
+{"RestaurantID": "cXSmZdm0zG6bG8nXwCN69g", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1422}}
+{"RestaurantID": "kmLRmhYTsdeiYLQpC06yxw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1423}}
+{"RestaurantID": "hHg8ADXX-0z0-oHGySXNFg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1424}}
+{"RestaurantID": "9XmT_XmK1y5s_GXfj7Iz5A", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1425}}
+{"RestaurantID": "zKGv7E_UNpL8vCiyfUkJEw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1426}}
+{"RestaurantID": "8Y5Ytn30Wup9sNf2n99s1A", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1427}}
+{"RestaurantID": "XwxGe5lDUtrZTr37JU6z-Q", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1428}}
+{"RestaurantID": "ox_EiMYKyVFYThbJppGYkQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1429}}
+{"RestaurantID": "goxRP7RFyv3tGBqp6x7dYg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1430}}
+{"RestaurantID": "u0-YeqDrlTYkoenXsQaSqg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1431}}
+{"RestaurantID": "kDmGjuRFRX8Wfq5l-RqGSA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1432}}
+{"RestaurantID": "Lst7wAYH_Dlxocz3nYPnow", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1433}}
+{"RestaurantID": "FVGTLWis-xBCrLmprgVXEg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1434}}
+{"RestaurantID": "DKAVCg08eo2JTaS8HhSgrA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1435}}
+{"RestaurantID": "yWhXiBrycr5h4oVSMB_8zQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1436}}
+{"RestaurantID": "DGDgn4lEjpKkMW8U1lzHxA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1437}}
+{"RestaurantID": "Ue9zGenIOzlBQY_FC2fXaw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1438}}
+{"RestaurantID": "cAcazXWgluB_2-n0KbDQXQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1439}}
+{"RestaurantID": "dTeQYgyfKt6GCl_UI5Dd1w", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1440}}
+{"RestaurantID": "03953w_N5CLwi82qt0UIMw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1441}}
+{"RestaurantID": "IgeFI4klLym7f7BV0wMNiA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1442}}
+{"RestaurantID": "OMRkRHFXmS9txTWirA-yMA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1443}}
+{"RestaurantID": "cF2GhXD8v4cfc9i0CTJtwg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1444}}
+{"RestaurantID": "lIV6srdtoTyzRffIPe0AFA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1445}}
+{"RestaurantID": "LHZcsxl8-XTwPzIh8dhbgA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1446}}
+{"RestaurantID": "NZJpUCeZxnxQdOf_Zfv-pQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1447}}
+{"RestaurantID": "xefmiLAsKURFc6FDGSRgfQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1448}}
+{"RestaurantID": "D4yoqzZ7ycSXGL2xjwJeMg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1449}}
+{"RestaurantID": "drpQ5_-53Azk3JiGj0Itrg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1450}}
+{"RestaurantID": "_CHgmuCIXI5H_EzjyPATWQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1451}}
+{"RestaurantID": "HVKKciOXD4k9VWXqgM9hqw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1452}}
+{"RestaurantID": "43mQbsfP4ZiCN0z8SM475Q", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1453}}
+{"RestaurantID": "vj5FPx1Cu5W0Jsf-BCFApA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1454}}
+{"RestaurantID": "N51w2HM8ODZWyDKn9KcVvA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1455}}
+{"RestaurantID": "wyVK8IgxdpsyuBCIiVJttA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1456}}
+{"RestaurantID": "DWR54ugpSThnDub4xeHWow", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1457}}
+{"RestaurantID": "ncx0b2sNw3dZnxK_ArZ0tQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1458}}
+{"RestaurantID": "bR2IOg3D1l3G4TzKYbEwfA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1459}}
+{"RestaurantID": "fKl-XzMrRQyW9tjg9mhIGA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1460}}
+{"RestaurantID": "HYW2O2qycmFiGUNt_TlyPA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1461}}
+{"RestaurantID": "Vx-X9dRYvecFALrpxo2w5g", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1462}}
+{"RestaurantID": "RoIl1F0_4A94DdP_xy8Mwg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1463}}
+{"RestaurantID": "ONXsF7KBawsPF4fvzSbd9g", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1464}}
+{"RestaurantID": "8KotY_L_CXJTD63YrRAdeA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1465}}
+{"RestaurantID": "7Ui-wOox7975OuoQpLIUvg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1466}}
+{"RestaurantID": "maZVyQ0jQ24MeaP9-72XxQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1467}}
+{"RestaurantID": "gXrj1hbH0cz_-GddzL1gDQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1468}}
+{"RestaurantID": "VkjEkhPUg-_JaK6-AL5Vsg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1469}}
+{"RestaurantID": "dYan0dlBcbyOrcNet_Mfmg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1470}}
+{"RestaurantID": "iZIJKQeJ7oSXHzxCmUyhZQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1471}}
+{"RestaurantID": "kdVfRqGWwZiBYS2zlKBcMA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1472}}
+{"RestaurantID": "1hbAbWZ3bdJCSg_EoS4zyQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1473}}
+{"RestaurantID": "TYUcE9t6bA9kCEqRNud5Dg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1474}}
+{"RestaurantID": "IuYN46e7DbCq9EjCvpqaZw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1475}}
+{"RestaurantID": "BaTfJjz2DoJwOQz5eOrqNA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1476}}
+{"RestaurantID": "RnMFZ_1O8yFb5iGEq1-kBA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1477}}
+{"RestaurantID": "PGQX5sI4N56SIwbpo2itiA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1478}}
+{"RestaurantID": "PvxKXXFeaVFnMwMrvydiFg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1479}}
+{"RestaurantID": "A05StjzdDTbkWvHxespDPA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1480}}
+{"RestaurantID": "l9dCKe-0EO1XQFkuFi8YRQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1481}}
+{"RestaurantID": "X155pxtcrY7l7Awh5zzm7g", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1482}}
+{"RestaurantID": "D_Rjd2js4_lkk51Obvlveg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1483}}
+{"RestaurantID": "vDJLLv3K5OtXdVq83Bw95g", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1484}}
+{"RestaurantID": "XCpvVDi-eMDid3s6LrDIuw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1485}}
+{"RestaurantID": "krQheRsb-0GeXKFSAMVxBA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1486}}
+{"RestaurantID": "7zUYzHfjVdln5TYgkazgDg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1487}}
+{"RestaurantID": "oucUhaQjSEeJb2F3rVRR_Q", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1488}}
+{"RestaurantID": "krV7j6LMGErBLcw66TwnOg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1489}}
+{"RestaurantID": "U7aH5Sy4Z5QfEpzeccz56w", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1490}}
+{"RestaurantID": "1l_valla-LACnhfXh8VEPg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1491}}
+{"RestaurantID": "y6U7NWV5WK3tBmn53fK_8g", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1492}}
+{"RestaurantID": "-OplSkpDk33uikS5fO-JQw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1493}}
+{"RestaurantID": "Y8YaI0YUb3zZgcqbdueaFw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1494}}
+{"RestaurantID": "AoZ_kDSEDKQvLISAfWkmCA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1495}}
+{"RestaurantID": "zQjaTAxYSKpNNj0F4kgjXQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1496}}
+{"RestaurantID": "PSpGb8041o_FXpj3V4Y-iw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1497}}
+{"RestaurantID": "tmF3_qr6l2YWczmUf5l1CQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1498}}
+{"RestaurantID": "tg2I4TLCUNr_llG2xLE4sg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1499}}
+{"RestaurantID": "5TJdeGTJSOPjfJvGGO9cRw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1500}}
+{"RestaurantID": "cZ4TwM7VnDhgNB6kapneSg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1501}}
+{"RestaurantID": "RNOoa_KlIgbDt_7ahVhw1A", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1502}}
+{"RestaurantID": "Ucg3flg-2tJAahEePIoigQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1503}}
+{"RestaurantID": "C4RxzDMeB56hQ92SjF2jNw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1504}}
+{"RestaurantID": "ju0UobdUZQWfyxWJEnoviQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1505}}
+{"RestaurantID": "dY0kJNKYzoMg2onA2RPdzg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1506}}
+{"RestaurantID": "tuzMzWjkf2UeaEl0lvaTCQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1507}}
+{"RestaurantID": "qmz0EiyIss8qkiWFYn94aw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1508}}
+{"RestaurantID": "0LhrOS_zzu-MlIwmN9ljoA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1509}}
+{"RestaurantID": "Z4OF9kKSikiYZCx62_aq8A", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1510}}
+{"RestaurantID": "56qlj1cYlqNzmG0xllGg-w", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1511}}
+{"RestaurantID": "TQva_biHxS_lTgYDi52BlQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1512}}
+{"RestaurantID": "VnmhnILiO3_TPNPIRU7Qug", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1513}}
+{"RestaurantID": "KRWMajn-8FFKBGv2s1Tyzw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1514}}
+{"RestaurantID": "VWiKAEzdATXDYxdomqQ9Ig", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1515}}
+{"RestaurantID": "2N1y8Cv7R92lDYia_eruCw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1516}}
+{"RestaurantID": "Pl7usBOnUHmpCGWgD4J0Mg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1517}}
+{"RestaurantID": "afDO1Zj6TA8QEAAFdUxD3A", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1518}}
+{"RestaurantID": "8mZ6fE9n_mK59mJ_MYtrSQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1519}}
+{"RestaurantID": "nGlWkpmdiBPUzCpIBQQfRw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1520}}
+{"RestaurantID": "9_mINg1vbsvC1fhvpwB3Aw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1521}}
+{"RestaurantID": "p66TjoKuAluFSnrtdqtHlw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1522}}
+{"RestaurantID": "iJX38wGhQFSQO3kchuRcMQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1523}}
+{"RestaurantID": "AzHbXpKevHaeHPhJHE8UnQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1524}}
+{"RestaurantID": "C1Y1CsldMdRGsjVZdBAigA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1525}}
+{"RestaurantID": "_7qt2EodhYIs0C6TLm7jJA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1526}}
+{"RestaurantID": "3o0Jp9ttSpP1wu7Focs7xg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1527}}
+{"RestaurantID": "vKMMLcGZ3TpJJ8Jr3cl_pg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1528}}
+{"RestaurantID": "80YK6JElg_pHjlHLlOvkmw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1529}}
+{"RestaurantID": "vJM8r7tpcKjeTnOjBwOv7Q", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1530}}
+{"RestaurantID": "cBUlHFB1fk2q3WmP6o7gvA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1531}}
+{"RestaurantID": "_GM0PFHcLKJI8D5ZkuVeog", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1532}}
+{"RestaurantID": "mN1358NllxfPIMjGC5WY5A", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1533}}
+{"RestaurantID": "KPRHC9snWkh8U6z4uFyL_w", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1534}}
+{"RestaurantID": "PaAPTi205szsOXoDSkZR1w", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1535}}
+{"RestaurantID": "d_SRqHAXYEvKSXj4-nI5Nw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1536}}
+{"RestaurantID": "uwz0AuS6V7z6HrxZCEHoGQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1537}}
+{"RestaurantID": "xWDk1Wymzd_-LRrDvpZAFg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1538}}
+{"RestaurantID": "su27bl6tqjh2ucbMc1FuvA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1539}}
+{"RestaurantID": "rI2AEfnQVvnFoWn2De96Qg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1540}}
+{"RestaurantID": "ueuZOk-eIQj691FsizC7wg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1541}}
+{"RestaurantID": "YLm2NzBuIZZqncRakdBZHg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1542}}
+{"RestaurantID": "AIcyWYtw8_lP0P3qHu2_8g", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1543}}
+{"RestaurantID": "cg7IxNN5wyrXVP5tkCaZRg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1544}}
+{"RestaurantID": "ZoVVcwwbCxIhEmstLWrRvw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1545}}
+{"RestaurantID": "6mTJLepWKf-T2fTAO2i9cg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1546}}
+{"RestaurantID": "JtmzTnEDpS03tMytXOPUQw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1547}}
+{"RestaurantID": "9meUV_lq0wzBJ1cNQWm6ew", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1548}}
+{"RestaurantID": "_4ztTCCumLK79ZJkNqL3ZQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1549}}
+{"RestaurantID": "mXLrVoEi80WZaZ3agBP5Jw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1550}}
+{"RestaurantID": "Zr4LCyGTU998s6lSL_D-8Q", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1551}}
+{"RestaurantID": "zlV9BsoqHCdpewbdliYz4Q", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1552}}
+{"RestaurantID": "gvPq0ENeKHpugUUxkAtRaw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1553}}
+{"RestaurantID": "FCJaZeBoeeM5F2ZhfzO0sA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1554}}
+{"RestaurantID": "U1MkaYLx7PL8qZbgi4BsCQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1555}}
+{"RestaurantID": "HcWm-9ZZu2_brnuRxN5Gpg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1556}}
+{"RestaurantID": "USQxn9Arz6tl-4AqtqpCkg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1557}}
+{"RestaurantID": "w6KV5eBcp7cqQek8skKbGQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1558}}
+{"RestaurantID": "0AoaUlXkQOlalpA3v-Ivqw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1559}}
+{"RestaurantID": "pSd2KO8MyEXtR6fAkUmbTg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1560}}
+{"RestaurantID": "ydFXOSGLl-pqLXccd6qaJQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1561}}
+{"RestaurantID": "NrKCM1h3CsC-sfhg-t1awg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1562}}
+{"RestaurantID": "tE20h_-KIOMqp72zKZ0-iA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1563}}
+{"RestaurantID": "Axyh4tTY4dvGDJhIVBoALQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1564}}
+{"RestaurantID": "FTF1I88dMYi3VmU8e06wKQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1565}}
+{"RestaurantID": "njKwUg6oYDEEtLuunTmgbg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1566}}
+{"RestaurantID": "Wm2HlpBm6naywFQdsezUew", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1567}}
+{"RestaurantID": "x3Ziu2bwI7tcP5juyzxCaw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1568}}
+{"RestaurantID": "BgXmo84dt_AoLlvZ22pe8g", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1569}}
+{"RestaurantID": "595Kf6h_Xd0hUaE__FKZNA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1570}}
+{"RestaurantID": "IQYQz1svn6HxgnUP6wCTBw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1571}}
+{"RestaurantID": "M7aFxytftoeiXMJnNAPxUg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1572}}
+{"RestaurantID": "inP3Ca1x9LYZpp4QP0d6vg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1573}}
+{"RestaurantID": "Ts6x2LqJIfFVNapnX4VfAQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1574}}
+{"RestaurantID": "GqzOGvwjduvXy3vZj_ChWw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1575}}
+{"RestaurantID": "c0E2tz1P4vJA2UxWGVA3EQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1576}}
+{"RestaurantID": "CLD0Bh-Z_7oGDQOcYdPGLg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1577}}
+{"RestaurantID": "jt_mFVGnAcPx27vIz4o29A", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1578}}
+{"RestaurantID": "l8PR3UGYwJ28ASIQ0N7ZUQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1579}}
+{"RestaurantID": "G7f4qfCJrVnTLDkAm4IJpQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1580}}
+{"RestaurantID": "rBCqVm8yhMKeLLP2mdghGw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1581}}
+{"RestaurantID": "qMkmNrpvFFExRU8SM8Bzlg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1582}}
+{"RestaurantID": "tuhlWtnjoOn8C6NTUCnbPg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1583}}
+{"RestaurantID": "rrxcBTWS827bJ4oBr5a_ww", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1584}}
+{"RestaurantID": "6y6EvQ_Us6AxKOjAbbPiVA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1585}}
+{"RestaurantID": "z0pxdL3Pn4C_Pa8QjDWvKw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1586}}
+{"RestaurantID": "ErmJ0Bcj8ghnWJXi88vqzw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1587}}
+{"RestaurantID": "6nOxwnuN0ZwLX3h3JYSJnA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1588}}
+{"RestaurantID": "VZBuV56yUnyf8ZKyvTnfDQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1589}}
+{"RestaurantID": "2At9cxG4uLElc_INpAe0Lw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1590}}
+{"RestaurantID": "n6jlAxpMcCqkZDRGEuyFGQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1591}}
+{"RestaurantID": "YsSjmyGWbxA05JuxAF69hA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1592}}
+{"RestaurantID": "zUs0dYx8zPKTkFiLdQKf_Q", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1593}}
+{"RestaurantID": "B8wqZSQdRBUl2XN8smO5Tg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1594}}
+{"RestaurantID": "wYmb7YpPwlchsYEPHzgcdQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1595}}
+{"RestaurantID": "wmCzFx6rc0b6ubjIbL9CZA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1596}}
+{"RestaurantID": "YvTqr7SBCestzWyi5iCaLw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1597}}
+{"RestaurantID": "T5V8QUXFiQiQgUGu-roNPA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1598}}
+{"RestaurantID": "QsNmb4ldqPSQamS4hNHdVg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1599}}
+{"RestaurantID": "F6OMu-ShMWPRAB_7PIoEPg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1600}}
+{"RestaurantID": "7R9PhpkZHAryCAVctq6bSw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1601}}
+{"RestaurantID": "0GX2FPZvZm_yXuNzkGha6Q", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1602}}
+{"RestaurantID": "yW1hMW6mKHrEkUwX68M6FQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1603}}
+{"RestaurantID": "p6AlpFwd99eGJukxOj1nrA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1604}}
+{"RestaurantID": "bch7dg47hZarDo-ODp-cuw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1605}}
+{"RestaurantID": "RlAl2v6yLVa1NLAaAduFgQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1606}}
+{"RestaurantID": "2dASiJlyK7f_WbgAXLpWdg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1607}}
+{"RestaurantID": "57B4MYJiEjEKeY2I4c5c0w", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1608}}
+{"RestaurantID": "x4ncpARQ81L3l8D3cTHVLg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1609}}
+{"RestaurantID": "kvjeoky19JXaKtUt2Be57A", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1610}}
+{"RestaurantID": "DHQZMnJ-g2hKfIjhlI4OEA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1611}}
+{"RestaurantID": "1JbL07IEAEBlaRH1aZnlkw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1612}}
+{"RestaurantID": "I9n187ZkrpBEXZz91PyCHw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1613}}
+{"RestaurantID": "z3vcYpnDgnBzZNqhQMOHUA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1614}}
+{"RestaurantID": "uuix2xNPXt4nX1w4ZCxMcA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1615}}
+{"RestaurantID": "CmrvcYql6P1VE1Phw4pEww", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1616}}
+{"RestaurantID": "F7YMlbH8SbcK0BnmPgmnXw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1617}}
+{"RestaurantID": "1adz9vAfSpgI00wZQe4Ntg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1618}}
+{"RestaurantID": "tAHRDrCR0l_utA91IyOYNw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1619}}
+{"RestaurantID": "rBnGSfnZS303n5DV8nY-Sw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1620}}
+{"RestaurantID": "7g-UYLiTqPtBqi31BoRJ5A", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1621}}
+{"RestaurantID": "mhdDsouVJldeaRaT2hlPoQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1622}}
+{"RestaurantID": "yzns786Ro92mmBfzvKCGSw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1623}}
+{"RestaurantID": "eT2rROrWDAr0auGYqQrp9A", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1624}}
+{"RestaurantID": "azCB19UzoGl7njg5FDudaw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1625}}
+{"RestaurantID": "yk-urU0Zz41LiTS2ZBZf1Q", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1626}}
+{"RestaurantID": "J8y07uq-3U0zE4XeKuKx3Q", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1627}}
+{"RestaurantID": "xJfwmaOYW0PkJQr-c6YddA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1628}}
+{"RestaurantID": "TxAABiHA-_UOQP6_pv1Tow", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1629}}
+{"RestaurantID": "I0l1s9BmxP3j2EVQ34Zlhg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1630}}
+{"RestaurantID": "8V7TRbftgcyzobXuzHEP_g", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1631}}
+{"RestaurantID": "sBA2iBFGSAxDFlN74TSp5Q", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1632}}
+{"RestaurantID": "cT3ueLYdWHnQYLvfR8qqYQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1633}}
+{"RestaurantID": "WekK6vHrQZ-81CijH2sGiw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1634}}
+{"RestaurantID": "YJFCtr-IPDI0iDeAAe3x2A", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1635}}
+{"RestaurantID": "oOx2iIAHljzllVSJqiK7lg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1636}}
+{"RestaurantID": "evwqlrmGijk_bFLJYrsHyw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1637}}
+{"RestaurantID": "tu3lu9iTFoPITkOM7art9A", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1638}}
+{"RestaurantID": "cUQD7DiehiiHcyv0TM5PEA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1639}}
+{"RestaurantID": "9dv8_1ckGt6TLi9cJfhhSQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1640}}
+{"RestaurantID": "fX_sAL8vz2jE4A8r6qG2IQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1641}}
+{"RestaurantID": "cqlmqNgYKdAWqPjKtblfkw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1642}}
+{"RestaurantID": "iRiWN3C19-UdicmHb8uPiQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1643}}
+{"RestaurantID": "hqAsvo-QZUZHGQdTM7WR5A", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1644}}
+{"RestaurantID": "lrf1S6gtyf7CNu8GK_GrWQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1645}}
+{"RestaurantID": "CMaKcJbkj-hn1We0ecVt3Q", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1646}}
+{"RestaurantID": "5cs9ytJmJ1c7X2KMEpYMVg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1647}}
+{"RestaurantID": "Uv4Oa2R93a4qR5hioLjOsQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1648}}
+{"RestaurantID": "eMWm_8A2hMzqJ9OqoEy0OQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1649}}
+{"RestaurantID": "kueSKaPlJZVfoeIE--Qlew", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1650}}
+{"RestaurantID": "5UEbm_aiA56FHc6nuJNPHg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1651}}
+{"RestaurantID": "NG1VpA2m9L6F1lslfbF-tg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1652}}
+{"RestaurantID": "U45dUNzVKs2KlM5HRgbDGA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1653}}
+{"RestaurantID": "pI-aETYVrGd34LF-UTot9A", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1654}}
+{"RestaurantID": "o8KtWVBIVI9E3YYM5r0dPw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1655}}
+{"RestaurantID": "iXYaj__C3lEMMbCEEiuGZQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1656}}
+{"RestaurantID": "cB--XW2ULfhSLDYAyd2u2g", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1657}}
+{"RestaurantID": "jjqQ-2OTsnJiqiKyk5f__Q", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1658}}
+{"RestaurantID": "trPF0KIleGw5SxiG0uNLKg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1659}}
+{"RestaurantID": "qIBT522O1LEUIWt_5S4Dmw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1660}}
+{"RestaurantID": "gPXDpeMmd95qDriKXYGjQQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1661}}
+{"RestaurantID": "6cypP1EYOC36cOAI3cq9AQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1662}}
+{"RestaurantID": "3FzpZE56CHuipiY_JDT3EA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1663}}
+{"RestaurantID": "Ow3wMG4xgWwCia7ugRtUPQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1664}}
+{"RestaurantID": "Nw6xKTE7HjMO_SczJQSusg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1665}}
+{"RestaurantID": "bw1Eq31uxhYh-kWTaPOT1A", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1666}}
+{"RestaurantID": "JZKGFeYrJvvjhXkwAdD8IQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1667}}
+{"RestaurantID": "eVkDtKkyw0FLsthMuQtVjg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1668}}
+{"RestaurantID": "9Wgj-XJqNY6CfhU23_MVvw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1669}}
+{"RestaurantID": "cLIKuW950x5Tq9xMuUmnRw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1670}}
+{"RestaurantID": "O1kH3xIkzViGvZ4m0qtpzw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1671}}
+{"RestaurantID": "aiIhXRH_gPrKeYZtZEawqA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1672}}
+{"RestaurantID": "uZ6nRdD3_XX51vu3ihYyzw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1673}}
+{"RestaurantID": "eSjLT_dw-h9hSTEgiRRiIw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1674}}
+{"RestaurantID": "-GYT90fOCNjTbjCjj4wuiw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1675}}
+{"RestaurantID": "kYV7zqV46GIm21YH7wVAQQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1676}}
+{"RestaurantID": "KwPwhRfnoVZwu7ztfzPSPA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1677}}
+{"RestaurantID": "qf098TQ-Frxq4QyrlYqDJw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1678}}
+{"RestaurantID": "GEDLTsHS5nEpHQ9NJ57uBA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1679}}
+{"RestaurantID": "wenaXt_MhJJK973nNO2IIg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1680}}
+{"RestaurantID": "gdxYAQadrPygCm552ElWVw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1681}}
+{"RestaurantID": "bD18EN5PeGOoXWsT4XMmbA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1682}}
+{"RestaurantID": "df96gW2AY6hWWa8hq3nX8A", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1683}}
+{"RestaurantID": "UqYxtrutXYdielZXMFLZug", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1684}}
+{"RestaurantID": "waPQsMOb8SdTFqE_JRzWow", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1685}}
+{"RestaurantID": "ynAttT3eap8RxxR6_dHhLw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1686}}
+{"RestaurantID": "7qmrgqxShzkcagZEez3gLA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1687}}
+{"RestaurantID": "R3yLUkO_gjSG-SirApdl-g", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1688}}
+{"RestaurantID": "w_4kEnanUloKJVDIJAUUyg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1689}}
+{"RestaurantID": "HsA3Wxu440hk7_qk6xjp2A", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1690}}
+{"RestaurantID": "HiFn9dLICFOX4OZofWDphg", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1691}}
+{"RestaurantID": "Y1al5vTE4dcgx2ywN93DWw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1692}}
+{"RestaurantID": "Axr7b2cgOltanaG6FVVH7Q", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1693}}
+{"RestaurantID": "rthmFnic6BxJDGuQ2h8_cw", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1694}}
+{"RestaurantID": "zmWM-mfenM3N_yTaItG1FA", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1695}}
+{"RestaurantID": "mlc3ZWp0JdMOKvECn-ia7Q", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1696}}
+{"RestaurantID": "3jhFctjqpUyQqsNSZmHF-g", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1697}}
+{"RestaurantID": "dFOqcBPoaraV2SsN08dacQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1698}}
+{"RestaurantID": "RS1qbaCAbI8_5gOloYs2pQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1699}}
+{"RestaurantID": "LQ41_AlKorPkr0jsOPzFvQ", "Cuisine": "Greek"}
+{"index": {"_index": "restaurants", "_id": 1700}}
+{"RestaurantID": "XtSPNWY6L70I6p9l8vnwWg", "Cuisine": "Greek"}

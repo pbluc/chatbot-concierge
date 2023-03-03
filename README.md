@@ -1,5 +1,8 @@
 # Chatbot Concierge #
 
+Patricia Luc (pbl2116)
+http://dining.chatbot.concierge.com.s3-website-us-east-1.amazonaws.com
+
 ## About ##
 
 Frontend starter repository for HW 1 of the Cloud Computing & Big Data
